@@ -1,0 +1,2004 @@
+Tree 0001: RF=4.0, Normalized RF=0.0800
+Tree 0001: Edge Similarity=99.0291, Reverse Edge Similarity=97.1429
+Tree 0002: RF=0.0, Normalized RF=0.0000
+Tree 0002: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0003: RF=9.0, Normalized RF=0.4737
+Tree 0003: Edge Similarity=89.7436, Reverse Edge Similarity=87.5000
+Tree 0004: RF=3.0, Normalized RF=0.0508
+Tree 0004: Edge Similarity=100.0000, Reverse Edge Similarity=97.3451
+Tree 0005: RF=20.0, Normalized RF=0.1639
+Tree 0005: Edge Similarity=97.0588, Reverse Edge Similarity=94.6721
+Tree 0006: RF=16.0, Normalized RF=0.1039
+Tree 0006: Edge Similarity=98.5163, Reverse Edge Similarity=96.7930
+Tree 0007: RF=3.0, Normalized RF=0.2308
+Tree 0007: Edge Similarity=100.0000, Reverse Edge Similarity=88.8889
+Tree 0008: RF=7.0, Normalized RF=0.0959
+Tree 0008: Edge Similarity=98.3740, Reverse Edge Similarity=96.0317
+Tree 0009: RF=5.0, Normalized RF=0.0820
+Tree 0009: Edge Similarity=100.0000, Reverse Edge Similarity=96.5278
+Tree 0010: RF=7.0, Normalized RF=0.1228
+Tree 0010: Edge Similarity=100.0000, Reverse Edge Similarity=94.6154
+Tree 0011: RF=14.0, Normalized RF=0.2414
+Tree 0011: Edge Similarity=97.0297, Reverse Edge Similarity=89.9083
+Tree 0012: RF=4.0, Normalized RF=0.1538
+Tree 0012: Edge Similarity=100.0000, Reverse Edge Similarity=93.3333
+Tree 0013: RF=13.0, Normalized RF=0.0992
+Tree 0013: Edge Similarity=99.1525, Reverse Edge Similarity=95.5102
+Tree 0014: RF=13.0, Normalized RF=0.1008
+Tree 0014: Edge Similarity=98.2684, Reverse Edge Similarity=96.1864
+Tree 0015: RF=13.0, Normalized RF=0.1831
+Tree 0015: Edge Similarity=97.2973, Reverse Edge Similarity=94.1176
+Tree 0016: RF=24.0, Normalized RF=0.1333
+Tree 0016: Edge Similarity=98.5632, Reverse Edge Similarity=94.7514
+Tree 0017: RF=5.0, Normalized RF=0.0667
+Tree 0017: Edge Similarity=96.8750, Reverse Edge Similarity=99.2000
+Tree 0018: RF=11.0, Normalized RF=0.1392
+Tree 0018: Edge Similarity=97.9275, Reverse Edge Similarity=96.4286
+Tree 0019: RF=7.0, Normalized RF=0.1429
+Tree 0019: Edge Similarity=96.6387, Reverse Edge Similarity=97.4576
+Tree 0020: RF=8.0, Normalized RF=0.2353
+Tree 0020: Edge Similarity=98.0952, Reverse Edge Similarity=94.4954
+Tree 0021: RF=2.0, Normalized RF=0.0667
+Tree 0021: Edge Similarity=100.0000, Reverse Edge Similarity=96.4286
+Tree 0022: RF=8.0, Normalized RF=0.1026
+Tree 0022: Edge Similarity=99.3007, Reverse Edge Similarity=95.3020
+Tree 0023: RF=1.0, Normalized RF=0.0196
+Tree 0023: Edge Similarity=99.1071, Reverse Edge Similarity=100.0000
+Tree 0024: RF=13.0, Normalized RF=0.1262
+Tree 0024: Edge Similarity=98.5507, Reverse Edge Similarity=95.3271
+Tree 0025: RF=1.0, Normalized RF=0.0400
+Tree 0025: Edge Similarity=98.4375, Reverse Edge Similarity=100.0000
+Tree 0026: RF=13.0, Normalized RF=0.1646
+Tree 0026: Edge Similarity=98.7578, Reverse Edge Similarity=93.5294
+Tree 0027: RF=0.0, Normalized RF=0.0000
+Tree 0027: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0028: RF=12.0, Normalized RF=0.1429
+Tree 0028: Edge Similarity=100.0000, Reverse Edge Similarity=92.6380
+Tree 0029: RF=2.0, Normalized RF=0.0323
+Tree 0029: Edge Similarity=100.0000, Reverse Edge Similarity=98.6014
+Tree 0030: RF=1.0, Normalized RF=0.0233
+Tree 0030: Edge Similarity=100.0000, Reverse Edge Similarity=99.0654
+Tree 0031: RF=13.0, Normalized RF=0.2549
+Tree 0031: Edge Similarity=96.2687, Reverse Edge Similarity=94.1606
+Tree 0032: RF=4.0, Normalized RF=0.0571
+Tree 0032: Edge Similarity=98.5075, Reverse Edge Similarity=98.5075
+Tree 0033: RF=4.0, Normalized RF=0.1818
+Tree 0033: Edge Similarity=100.0000, Reverse Edge Similarity=91.3043
+Tree 0034: RF=5.0, Normalized RF=0.0725
+Tree 0034: Edge Similarity=96.8992, Reverse Edge Similarity=99.2063
+Tree 0035: RF=9.0, Normalized RF=0.1429
+Tree 0035: Edge Similarity=96.7742, Reverse Edge Similarity=96.0000
+Tree 0036: RF=5.0, Normalized RF=0.1282
+Tree 0036: Edge Similarity=98.9130, Reverse Edge Similarity=95.7895
+Tree 0037: RF=1.0, Normalized RF=0.0244
+Tree 0037: Edge Similarity=100.0000, Reverse Edge Similarity=98.9583
+Tree 0038: RF=4.0, Normalized RF=0.1053
+Tree 0038: Edge Similarity=100.0000, Reverse Edge Similarity=94.3662
+Tree 0039: RF=5.0, Normalized RF=0.1064
+Tree 0039: Edge Similarity=98.0769, Reverse Edge Similarity=97.1429
+Tree 0040: RF=24.0, Normalized RF=0.2182
+Tree 0040: Edge Similarity=99.0909, Reverse Edge Similarity=90.8333
+Tree 0041: RF=2.0, Normalized RF=0.0769
+Tree 0041: Edge Similarity=100.0000, Reverse Edge Similarity=97.7273
+Tree 0042: RF=3.0, Normalized RF=0.2308
+Tree 0042: Edge Similarity=100.0000, Reverse Edge Similarity=93.0233
+Tree 0043: RF=13.0, Normalized RF=0.1074
+Tree 0043: Edge Similarity=98.5507, Reverse Edge Similarity=95.3271
+Tree 0044: RF=17.0, Normalized RF=0.1910
+Tree 0044: Edge Similarity=97.5490, Reverse Edge Similarity=94.3128
+Tree 0045: RF=13.0, Normalized RF=0.2063
+Tree 0045: Edge Similarity=96.7742, Reverse Edge Similarity=90.0000
+Tree 0046: RF=23.0, Normalized RF=0.1966
+Tree 0046: Edge Similarity=96.5000, Reverse Edge Similarity=92.3445
+Tree 0047: RF=11.0, Normalized RF=0.1048
+Tree 0047: Edge Similarity=99.0521, Reverse Edge Similarity=95.8716
+Tree 0048: RF=21.0, Normalized RF=0.1579
+Tree 0048: Edge Similarity=99.2674, Reverse Edge Similarity=93.4483
+Tree 0049: RF=14.0, Normalized RF=0.0959
+Tree 0049: Edge Similarity=99.6032, Reverse Edge Similarity=95.0758
+Tree 0050: RF=9.0, Normalized RF=0.1200
+Tree 0050: Edge Similarity=97.9866, Reverse Edge Similarity=96.0526
+Tree 0051: RF=11.0, Normalized RF=0.1549
+Tree 0051: Edge Similarity=98.5075, Reverse Edge Similarity=93.6170
+Tree 0052: RF=0.0, Normalized RF=0.0000
+Tree 0052: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0053: RF=9.0, Normalized RF=0.1385
+Tree 0053: Edge Similarity=96.8254, Reverse Edge Similarity=96.0630
+Tree 0054: RF=5.0, Normalized RF=0.1111
+Tree 0054: Edge Similarity=97.4359, Reverse Edge Similarity=96.2025
+Tree 0055: RF=10.0, Normalized RF=0.1786
+Tree 0055: Edge Similarity=97.2222, Reverse Edge Similarity=95.8904
+Tree 0056: RF=11.0, Normalized RF=0.0683
+Tree 0056: Edge Similarity=100.0000, Reverse Edge Similarity=96.5300
+Tree 0057: RF=1.0, Normalized RF=0.0909
+Tree 0057: Edge Similarity=100.0000, Reverse Edge Similarity=97.8261
+Tree 0058: RF=4.0, Normalized RF=0.2857
+Tree 0058: Edge Similarity=96.8254, Reverse Edge Similarity=96.8254
+Tree 0059: RF=7.0, Normalized RF=0.2414
+Tree 0059: Edge Similarity=95.3488, Reverse Edge Similarity=96.4706
+Tree 0060: RF=6.0, Normalized RF=0.4286
+Tree 0060: Edge Similarity=92.5000, Reverse Edge Similarity=92.5000
+Tree 0061: RF=7.0, Normalized RF=0.0769
+Tree 0061: Edge Similarity=98.8701, Reverse Edge Similarity=97.2222
+Tree 0062: RF=17.0, Normalized RF=0.2000
+Tree 0062: Edge Similarity=97.9310, Reverse Edge Similarity=91.0256
+Tree 0063: RF=1.0, Normalized RF=0.0303
+Tree 0063: Edge Similarity=100.0000, Reverse Edge Similarity=98.9796
+Tree 0064: RF=8.0, Normalized RF=0.1538
+Tree 0064: Edge Similarity=100.0000, Reverse Edge Similarity=93.0435
+Tree 0065: RF=5.0, Normalized RF=0.1429
+Tree 0065: Edge Similarity=100.0000, Reverse Edge Similarity=93.9024
+Tree 0066: RF=3.0, Normalized RF=0.0588
+Tree 0066: Edge Similarity=97.9592, Reverse Edge Similarity=98.9691
+Tree 0067: RF=2.0, Normalized RF=0.0323
+Tree 0067: Edge Similarity=98.1818, Reverse Edge Similarity=100.0000
+Tree 0068: RF=10.0, Normalized RF=0.3571
+Tree 0068: Edge Similarity=97.6190, Reverse Edge Similarity=91.1111
+Tree 0069: RF=3.0, Normalized RF=0.0857
+Tree 0069: Edge Similarity=100.0000, Reverse Edge Similarity=95.7746
+Tree 0070: RF=7.0, Normalized RF=0.1373
+Tree 0070: Edge Similarity=95.6140, Reverse Edge Similarity=98.1982
+Tree 0071: RF=5.0, Normalized RF=0.0980
+Tree 0071: Edge Similarity=98.0583, Reverse Edge Similarity=97.1154
+Tree 0072: RF=16.0, Normalized RF=0.2667
+Tree 0072: Edge Similarity=97.6378, Reverse Edge Similarity=90.5109
+Tree 0073: RF=8.0, Normalized RF=0.0755
+Tree 0073: Edge Similarity=99.0050, Reverse Edge Similarity=97.0732
+Tree 0074: RF=12.0, Normalized RF=0.0811
+Tree 0074: Edge Similarity=99.6633, Reverse Edge Similarity=96.4169
+Tree 0075: RF=5.0, Normalized RF=0.0980
+Tree 0075: Edge Similarity=98.2609, Reverse Edge Similarity=97.4138
+Tree 0076: RF=2.0, Normalized RF=0.0370
+Tree 0076: Edge Similarity=100.0000, Reverse Edge Similarity=98.3471
+Tree 0077: RF=17.0, Normalized RF=0.1069
+Tree 0077: Edge Similarity=98.7768, Reverse Edge Similarity=96.1310
+Tree 0078: RF=9.0, Normalized RF=0.1636
+Tree 0078: Edge Similarity=97.6562, Reverse Edge Similarity=95.4198
+Tree 0079: RF=6.0, Normalized RF=0.1579
+Tree 0079: Edge Similarity=97.8723, Reverse Edge Similarity=95.8333
+Tree 0080: RF=0.0, Normalized RF=0.0000
+Tree 0080: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0081: RF=12.0, Normalized RF=0.1579
+Tree 0081: Edge Similarity=96.8000, Reverse Edge Similarity=93.7984
+Tree 0082: RF=8.0, Normalized RF=0.2500
+Tree 0082: Edge Similarity=100.0000, Reverse Edge Similarity=91.9192
+Tree 0083: RF=0.0, Normalized RF=0.0000
+Tree 0083: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0084: RF=2.0, Normalized RF=0.0417
+Tree 0084: Edge Similarity=100.0000, Reverse Edge Similarity=97.5904
+Tree 0085: RF=10.0, Normalized RF=0.1351
+Tree 0085: Edge Similarity=100.0000, Reverse Edge Similarity=93.8272
+Tree 0086: RF=15.0, Normalized RF=0.1111
+Tree 0086: Edge Similarity=100.0000, Reverse Edge Similarity=94.3396
+Tree 0087: RF=2.0, Normalized RF=0.5000
+Tree 0087: Edge Similarity=91.3043, Reverse Edge Similarity=100.0000
+Tree 0088: RF=5.0, Normalized RF=0.0649
+Tree 0088: Edge Similarity=100.0000, Reverse Edge Similarity=97.4490
+Tree 0089: RF=0.0, Normalized RF=0.0000
+Tree 0089: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0090: RF=6.0, Normalized RF=0.0638
+Tree 0090: Edge Similarity=98.3696, Reverse Edge Similarity=98.3696
+Tree 0091: RF=11.0, Normalized RF=0.0629
+Tree 0091: Edge Similarity=100.0000, Reverse Edge Similarity=96.7552
+Tree 0092: RF=3.0, Normalized RF=0.0667
+Tree 0092: Edge Similarity=97.8022, Reverse Edge Similarity=98.8889
+Tree 0093: RF=2.0, Normalized RF=0.0400
+Tree 0093: Edge Similarity=100.0000, Reverse Edge Similarity=98.3051
+Tree 0094: RF=6.0, Normalized RF=0.1364
+Tree 0094: Edge Similarity=98.1481, Reverse Edge Similarity=96.3636
+Tree 0095: RF=3.0, Normalized RF=0.1429
+Tree 0095: Edge Similarity=96.1039, Reverse Edge Similarity=100.0000
+Tree 0096: RF=9.0, Normalized RF=0.1765
+Tree 0096: Edge Similarity=100.0000, Reverse Edge Similarity=93.1298
+Tree 0097: RF=7.0, Normalized RF=0.2121
+Tree 0097: Edge Similarity=95.1613, Reverse Edge Similarity=93.6508
+Tree 0098: RF=15.0, Normalized RF=0.0909
+Tree 0098: Edge Similarity=99.6528, Reverse Edge Similarity=95.3488
+Tree 0099: RF=6.0, Normalized RF=0.1154
+Tree 0099: Edge Similarity=100.0000, Reverse Edge Similarity=95.0413
+Tree 0100: RF=24.0, Normalized RF=0.2609
+Tree 0100: Edge Similarity=95.4286, Reverse Edge Similarity=91.2568
+Tree 0101: RF=4.0, Normalized RF=0.1250
+Tree 0101: Edge Similarity=97.2973, Reverse Edge Similarity=97.2973
+Tree 0102: RF=7.0, Normalized RF=0.0737
+Tree 0102: Edge Similarity=96.6216, Reverse Edge Similarity=98.6207
+Tree 0103: RF=5.0, Normalized RF=0.1515
+Tree 0103: Edge Similarity=97.7528, Reverse Edge Similarity=96.6667
+Tree 0104: RF=6.0, Normalized RF=0.0400
+Tree 0104: Edge Similarity=99.6656, Reverse Edge Similarity=98.3498
+Tree 0105: RF=1.0, Normalized RF=0.0667
+Tree 0105: Edge Similarity=96.1538, Reverse Edge Similarity=100.0000
+Tree 0106: RF=6.0, Normalized RF=0.0811
+Tree 0106: Edge Similarity=100.0000, Reverse Edge Similarity=95.9732
+Tree 0107: RF=6.0, Normalized RF=0.1500
+Tree 0107: Edge Similarity=96.0526, Reverse Edge Similarity=96.0526
+Tree 0108: RF=7.0, Normalized RF=0.1228
+Tree 0108: Edge Similarity=99.2000, Reverse Edge Similarity=95.3846
+Tree 0109: RF=8.0, Normalized RF=0.2222
+Tree 0109: Edge Similarity=97.1429, Reverse Edge Similarity=95.3271
+Tree 0110: RF=3.0, Normalized RF=0.1200
+Tree 0110: Edge Similarity=100.0000, Reverse Edge Similarity=95.1613
+Tree 0111: RF=11.0, Normalized RF=0.0728
+Tree 0111: Edge Similarity=98.5765, Reverse Edge Similarity=97.5352
+Tree 0112: RF=11.0, Normalized RF=0.1549
+Tree 0112: Edge Similarity=94.8387, Reverse Edge Similarity=98.0000
+Tree 0113: RF=0.0, Normalized RF=0.0000
+Tree 0113: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0114: RF=13.0, Normalized RF=0.2453
+Tree 0114: Edge Similarity=96.9466, Reverse Edge Similarity=93.3824
+Tree 0115: RF=19.0, Normalized RF=0.1050
+Tree 0115: Edge Similarity=98.3713, Reverse Edge Similarity=95.5696
+Tree 0116: RF=8.0, Normalized RF=0.1905
+Tree 0116: Edge Similarity=97.0297, Reverse Edge Similarity=95.1456
+Tree 0117: RF=7.0, Normalized RF=0.1186
+Tree 0117: Edge Similarity=97.2727, Reverse Edge Similarity=96.3964
+Tree 0118: RF=6.0, Normalized RF=0.1034
+Tree 0118: Edge Similarity=96.9072, Reverse Edge Similarity=96.9072
+Tree 0119: RF=2.0, Normalized RF=0.0556
+Tree 0119: Edge Similarity=100.0000, Reverse Edge Similarity=98.0000
+Tree 0120: RF=4.0, Normalized RF=0.1538
+Tree 0120: Edge Similarity=95.6522, Reverse Edge Similarity=95.6522
+Tree 0121: RF=NA, Normalized RF=0.0000
+Tree 0121: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0122: RF=7.0, Normalized RF=0.2258
+Tree 0122: Edge Similarity=96.4912, Reverse Edge Similarity=91.6667
+Tree 0123: RF=1.0, Normalized RF=0.0204
+Tree 0123: Edge Similarity=100.0000, Reverse Edge Similarity=98.8506
+Tree 0124: RF=2.0, Normalized RF=0.0500
+Tree 0124: Edge Similarity=100.0000, Reverse Edge Similarity=97.3333
+Tree 0125: RF=16.0, Normalized RF=0.1633
+Tree 0125: Edge Similarity=98.5714, Reverse Edge Similarity=94.0909
+Tree 0126: RF=21.0, Normalized RF=0.2121
+Tree 0126: Edge Similarity=97.1831, Reverse Edge Similarity=93.2432
+Tree 0127: RF=3.0, Normalized RF=0.3333
+Tree 0127: Edge Similarity=100.0000, Reverse Edge Similarity=90.6250
+Tree 0128: RF=10.0, Normalized RF=0.1163
+Tree 0128: Edge Similarity=100.0000, Reverse Edge Similarity=92.9078
+Tree 0129: RF=9.0, Normalized RF=0.1059
+Tree 0129: Edge Similarity=99.3548, Reverse Edge Similarity=95.0617
+Tree 0130: RF=13.0, Normalized RF=0.2364
+Tree 0130: Edge Similarity=100.0000, Reverse Edge Similarity=89.9225
+Tree 0131: RF=18.0, Normalized RF=0.2812
+Tree 0131: Edge Similarity=95.9350, Reverse Edge Similarity=90.0763
+Tree 0132: RF=2.0, Normalized RF=0.0556
+Tree 0132: Edge Similarity=100.0000, Reverse Edge Similarity=98.2143
+Tree 0133: RF=3.0, Normalized RF=0.0811
+Tree 0133: Edge Similarity=100.0000, Reverse Edge Similarity=96.9388
+Tree 0134: RF=2.0, Normalized RF=0.0333
+Tree 0134: Edge Similarity=100.0000, Reverse Edge Similarity=98.4615
+Tree 0135: RF=15.0, Normalized RF=0.1200
+Tree 0135: Edge Similarity=96.9432, Reverse Edge Similarity=96.5217
+Tree 0136: RF=0.0, Normalized RF=0.0000
+Tree 0136: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0137: RF=1.0, Normalized RF=0.0345
+Tree 0137: Edge Similarity=100.0000, Reverse Edge Similarity=98.5294
+Tree 0138: RF=0.0, Normalized RF=0.0000
+Tree 0138: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0139: RF=13.0, Normalized RF=0.1429
+Tree 0139: Edge Similarity=100.0000, Reverse Edge Similarity=93.2642
+Tree 0140: RF=3.0, Normalized RF=0.4286
+Tree 0140: Edge Similarity=100.0000, Reverse Edge Similarity=88.0000
+Tree 0141: RF=2.0, Normalized RF=0.0625
+Tree 0141: Edge Similarity=95.7447, Reverse Edge Similarity=100.0000
+Tree 0142: RF=6.0, Normalized RF=0.1000
+Tree 0142: Edge Similarity=98.3333, Reverse Edge Similarity=96.7213
+Tree 0143: RF=0.0, Normalized RF=0.0000
+Tree 0143: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0144: RF=2.0, Normalized RF=0.0217
+Tree 0144: Edge Similarity=100.0000, Reverse Edge Similarity=98.7952
+Tree 0145: RF=4.0, Normalized RF=0.1667
+Tree 0145: Edge Similarity=100.0000, Reverse Edge Similarity=90.9091
+Tree 0146: RF=12.0, Normalized RF=0.2069
+Tree 0146: Edge Similarity=100.0000, Reverse Edge Similarity=91.2409
+Tree 0147: RF=3.0, Normalized RF=0.1304
+Tree 0147: Edge Similarity=100.0000, Reverse Edge Similarity=95.9459
+Tree 0148: RF=19.0, Normalized RF=0.2289
+Tree 0148: Edge Similarity=97.2067, Reverse Edge Similarity=92.5532
+Tree 0149: RF=12.0, Normalized RF=0.1429
+Tree 0149: Edge Similarity=98.6301, Reverse Edge Similarity=93.5065
+Tree 0150: RF=2.0, Normalized RF=0.0588
+Tree 0150: Edge Similarity=100.0000, Reverse Edge Similarity=97.1831
+Tree 0151: RF=3.0, Normalized RF=0.1111
+Tree 0151: Edge Similarity=95.8333, Reverse Edge Similarity=97.8723
+Tree 0152: RF=9.0, Normalized RF=0.2432
+Tree 0152: Edge Similarity=100.0000, Reverse Edge Similarity=89.2857
+Tree 0153: RF=5.0, Normalized RF=0.1429
+Tree 0153: Edge Similarity=100.0000, Reverse Edge Similarity=94.5055
+Tree 0154: RF=17.0, Normalized RF=0.1360
+Tree 0154: Edge Similarity=99.0826, Reverse Edge Similarity=93.5065
+Tree 0155: RF=5.0, Normalized RF=0.1020
+Tree 0155: Edge Similarity=100.0000, Reverse Edge Similarity=95.9016
+Tree 0156: RF=7.0, Normalized RF=0.0707
+Tree 0156: Edge Similarity=98.8636, Reverse Edge Similarity=97.2067
+Tree 0157: RF=8.0, Normalized RF=0.2500
+Tree 0157: Edge Similarity=91.5789, Reverse Edge Similarity=100.0000
+Tree 0158: RF=5.0, Normalized RF=0.0943
+Tree 0158: Edge Similarity=100.0000, Reverse Edge Similarity=95.7627
+Tree 0159: RF=1.0, Normalized RF=0.0323
+Tree 0159: Edge Similarity=97.7273, Reverse Edge Similarity=100.0000
+Tree 0160: RF=1.0, Normalized RF=0.0476
+Tree 0160: Edge Similarity=96.9697, Reverse Edge Similarity=100.0000
+Tree 0161: RF=4.0, Normalized RF=0.1429
+Tree 0161: Edge Similarity=100.0000, Reverse Edge Similarity=94.4444
+Tree 0162: RF=6.0, Normalized RF=0.1429
+Tree 0162: Edge Similarity=98.4375, Reverse Edge Similarity=92.6471
+Tree 0163: RF=5.0, Normalized RF=0.1724
+Tree 0163: Edge Similarity=91.0714, Reverse Edge Similarity=100.0000
+Tree 0164: RF=9.0, Normalized RF=0.1111
+Tree 0164: Edge Similarity=98.3333, Reverse Edge Similarity=96.7213
+Tree 0165: RF=0.0, Normalized RF=0.0000
+Tree 0165: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0166: RF=1.0, Normalized RF=0.0244
+Tree 0166: Edge Similarity=100.0000, Reverse Edge Similarity=98.6301
+Tree 0167: RF=13.0, Normalized RF=0.2000
+Tree 0167: Edge Similarity=95.5556, Reverse Edge Similarity=94.8529
+Tree 0168: RF=4.0, Normalized RF=0.1429
+Tree 0168: Edge Similarity=94.4444, Reverse Edge Similarity=98.0769
+Tree 0169: RF=2.0, Normalized RF=0.0400
+Tree 0169: Edge Similarity=100.0000, Reverse Edge Similarity=98.0392
+Tree 0170: RF=9.0, Normalized RF=0.1636
+Tree 0170: Edge Similarity=95.7265, Reverse Edge Similarity=96.5517
+Tree 0171: RF=9.0, Normalized RF=0.0989
+Tree 0171: Edge Similarity=96.2963, Reverse Edge Similarity=98.1132
+Tree 0172: RF=23.0, Normalized RF=0.1608
+Tree 0172: Edge Similarity=97.7186, Reverse Edge Similarity=93.7956
+Tree 0173: RF=14.0, Normalized RF=0.1321
+Tree 0173: Edge Similarity=98.2222, Reverse Edge Similarity=95.6710
+Tree 0174: RF=2.0, Normalized RF=0.0323
+Tree 0174: Edge Similarity=100.0000, Reverse Edge Similarity=98.5612
+Tree 0175: RF=0.0, Normalized RF=0.0000
+Tree 0175: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0176: RF=14.0, Normalized RF=0.1489
+Tree 0176: Edge Similarity=98.3957, Reverse Edge Similarity=94.3590
+Tree 0177: RF=6.0, Normalized RF=0.1250
+Tree 0177: Edge Similarity=100.0000, Reverse Edge Similarity=94.6903
+Tree 0178: RF=3.0, Normalized RF=0.0588
+Tree 0178: Edge Similarity=100.0000, Reverse Edge Similarity=96.7742
+Tree 0179: RF=0.0, Normalized RF=0.0000
+Tree 0179: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0180: RF=1.0, Normalized RF=1.0000
+Tree 0180: Edge Similarity=100.0000, Reverse Edge Similarity=87.5000
+Tree 0181: RF=16.0, Normalized RF=0.1290
+Tree 0181: Edge Similarity=99.1701, Reverse Edge Similarity=94.4664
+Tree 0182: RF=12.0, Normalized RF=0.3000
+Tree 0182: Edge Similarity=96.1538, Reverse Edge Similarity=89.2857
+Tree 0183: RF=10.0, Normalized RF=0.1042
+Tree 0183: Edge Similarity=98.1818, Reverse Edge Similarity=95.8580
+Tree 0184: RF=0.0, Normalized RF=0.0000
+Tree 0184: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0185: RF=26.0, Normalized RF=0.1368
+Tree 0185: Edge Similarity=97.5477, Reverse Edge Similarity=95.4667
+Tree 0186: RF=0.0, Normalized RF=0.0000
+Tree 0186: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0187: RF=4.0, Normalized RF=0.0952
+Tree 0187: Edge Similarity=98.8506, Reverse Edge Similarity=96.6292
+Tree 0188: RF=9.0, Normalized RF=0.1475
+Tree 0188: Edge Similarity=97.6744, Reverse Edge Similarity=95.4545
+Tree 0189: RF=6.0, Normalized RF=0.0938
+Tree 0189: Edge Similarity=97.6923, Reverse Edge Similarity=97.6923
+Tree 0190: RF=10.0, Normalized RF=0.3125
+Tree 0190: Edge Similarity=91.7808, Reverse Edge Similarity=94.3662
+Tree 0191: RF=15.0, Normalized RF=0.1807
+Tree 0191: Edge Similarity=96.3855, Reverse Edge Similarity=94.6746
+Tree 0192: RF=23.0, Normalized RF=0.2150
+Tree 0192: Edge Similarity=97.1831, Reverse Edge Similarity=92.4107
+Tree 0193: RF=3.0, Normalized RF=0.0566
+Tree 0193: Edge Similarity=100.0000, Reverse Edge Similarity=97.4576
+Tree 0194: RF=15.0, Normalized RF=0.1807
+Tree 0194: Edge Similarity=97.9167, Reverse Edge Similarity=94.4724
+Tree 0195: RF=15.0, Normalized RF=0.1181
+Tree 0195: Edge Similarity=98.1982, Reverse Edge Similarity=95.1965
+Tree 0196: RF=8.0, Normalized RF=0.1290
+Tree 0196: Edge Similarity=97.3684, Reverse Edge Similarity=95.6897
+Tree 0197: RF=14.0, Normalized RF=0.1628
+Tree 0197: Edge Similarity=98.6928, Reverse Edge Similarity=92.6380
+Tree 0198: RF=0.0, Normalized RF=0.0000
+Tree 0198: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0199: RF=4.0, Normalized RF=0.1818
+Tree 0199: Edge Similarity=91.4894, Reverse Edge Similarity=100.0000
+Tree 0200: RF=12.0, Normalized RF=0.1132
+Tree 0200: Edge Similarity=98.5714, Reverse Edge Similarity=95.8333
+Tree 0201: RF=4.0, Normalized RF=0.0556
+Tree 0201: Edge Similarity=99.2188, Reverse Edge Similarity=97.6923
+Tree 0202: RF=9.0, Normalized RF=0.1233
+Tree 0202: Edge Similarity=99.3464, Reverse Edge Similarity=95.0000
+Tree 0203: RF=1.0, Normalized RF=0.0137
+Tree 0203: Edge Similarity=100.0000, Reverse Edge Similarity=99.1453
+Tree 0204: RF=8.0, Normalized RF=0.4444
+Tree 0204: Edge Similarity=95.8333, Reverse Edge Similarity=93.2432
+Tree 0205: RF=7.0, Normalized RF=0.1489
+Tree 0205: Edge Similarity=95.3704, Reverse Edge Similarity=98.0952
+Tree 0206: RF=10.0, Normalized RF=0.1613
+Tree 0206: Edge Similarity=98.4733, Reverse Edge Similarity=94.1606
+Tree 0207: RF=10.0, Normalized RF=0.1020
+Tree 0207: Edge Similarity=98.3425, Reverse Edge Similarity=96.2162
+Tree 0208: RF=4.0, Normalized RF=0.0606
+Tree 0208: Edge Similarity=99.1304, Reverse Edge Similarity=97.4359
+Tree 0209: RF=0.0, Normalized RF=0.0000
+Tree 0209: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0210: RF=3.0, Normalized RF=0.0612
+Tree 0210: Edge Similarity=100.0000, Reverse Edge Similarity=96.9072
+Tree 0211: RF=10.0, Normalized RF=0.1087
+Tree 0211: Edge Similarity=100.0000, Reverse Edge Similarity=94.4134
+Tree 0212: RF=10.0, Normalized RF=0.2000
+Tree 0212: Edge Similarity=98.1818, Reverse Edge Similarity=93.1034
+Tree 0213: RF=5.0, Normalized RF=0.2174
+Tree 0213: Edge Similarity=93.1818, Reverse Edge Similarity=95.3488
+Tree 0214: RF=5.0, Normalized RF=0.0847
+Tree 0214: Edge Similarity=100.0000, Reverse Edge Similarity=95.9677
+Tree 0215: RF=5.0, Normalized RF=0.1429
+Tree 0215: Edge Similarity=100.0000, Reverse Edge Similarity=94.2529
+Tree 0216: RF=4.0, Normalized RF=0.1111
+Tree 0216: Edge Similarity=97.8261, Reverse Edge Similarity=97.8261
+Tree 0217: RF=2.0, Normalized RF=0.0263
+Tree 0217: Edge Similarity=98.7179, Reverse Edge Similarity=100.0000
+Tree 0218: RF=16.0, Normalized RF=0.1951
+Tree 0218: Edge Similarity=96.8750, Reverse Edge Similarity=93.3735
+Tree 0219: RF=2.0, Normalized RF=0.1250
+Tree 0219: Edge Similarity=100.0000, Reverse Edge Similarity=96.4912
+Tree 0220: RF=10.0, Normalized RF=0.1389
+Tree 0220: Edge Similarity=100.0000, Reverse Edge Similarity=93.5484
+Tree 0221: RF=14.0, Normalized RF=0.1707
+Tree 0221: Edge Similarity=99.4475, Reverse Edge Similarity=93.2642
+Tree 0222: RF=0.0, Normalized RF=0.0000
+Tree 0222: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0223: RF=7.0, Normalized RF=0.1795
+Tree 0223: Edge Similarity=98.6486, Reverse Edge Similarity=92.4051
+Tree 0224: RF=14.0, Normalized RF=0.0722
+Tree 0224: Edge Similarity=99.3377, Reverse Edge Similarity=96.1538
+Tree 0225: RF=10.0, Normalized RF=0.2778
+Tree 0225: Edge Similarity=95.8763, Reverse Edge Similarity=93.9394
+Tree 0226: RF=25.0, Normalized RF=0.2137
+Tree 0226: Edge Similarity=98.1308, Reverse Edge Similarity=90.9091
+Tree 0227: RF=9.0, Normalized RF=0.2195
+Tree 0227: Edge Similarity=97.1154, Reverse Edge Similarity=94.3925
+Tree 0228: RF=10.0, Normalized RF=0.1316
+Tree 0228: Edge Similarity=98.7342, Reverse Edge Similarity=95.1220
+Tree 0229: RF=10.0, Normalized RF=0.1316
+Tree 0229: Edge Similarity=99.2908, Reverse Edge Similarity=93.9597
+Tree 0230: RF=0.0, Normalized RF=0.0000
+Tree 0230: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0231: RF=11.0, Normalized RF=0.1467
+Tree 0231: Edge Similarity=99.4083, Reverse Edge Similarity=94.3820
+Tree 0232: RF=0.0, Normalized RF=0.0000
+Tree 0232: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0233: RF=1.0, Normalized RF=0.0588
+Tree 0233: Edge Similarity=97.5000, Reverse Edge Similarity=100.0000
+Tree 0234: RF=12.0, Normalized RF=0.1818
+Tree 0234: Edge Similarity=100.0000, Reverse Edge Similarity=91.8919
+Tree 0235: RF=19.0, Normalized RF=0.1959
+Tree 0235: Edge Similarity=100.0000, Reverse Edge Similarity=90.3553
+Tree 0236: RF=14.0, Normalized RF=0.1029
+Tree 0236: Edge Similarity=98.1685, Reverse Edge Similarity=96.7509
+Tree 0237: RF=12.0, Normalized RF=0.1622
+Tree 0237: Edge Similarity=98.1132, Reverse Edge Similarity=94.5455
+Tree 0238: RF=11.0, Normalized RF=0.2157
+Tree 0238: Edge Similarity=95.6522, Reverse Edge Similarity=94.8276
+Tree 0239: RF=5.0, Normalized RF=0.1724
+Tree 0239: Edge Similarity=98.6842, Reverse Edge Similarity=94.9367
+Tree 0240: RF=3.0, Normalized RF=0.0857
+Tree 0240: Edge Similarity=100.0000, Reverse Edge Similarity=96.4286
+Tree 0241: RF=5.0, Normalized RF=0.2174
+Tree 0241: Edge Similarity=93.4783, Reverse Edge Similarity=95.5556
+Tree 0242: RF=3.0, Normalized RF=0.0968
+Tree 0242: Edge Similarity=98.8506, Reverse Edge Similarity=97.7273
+Tree 0243: RF=8.0, Normalized RF=0.1667
+Tree 0243: Edge Similarity=100.0000, Reverse Edge Similarity=92.8571
+Tree 0244: RF=18.0, Normalized RF=0.2812
+Tree 0244: Edge Similarity=99.3151, Reverse Edge Similarity=89.5062
+Tree 0245: RF=11.0, Normalized RF=0.1392
+Tree 0245: Edge Similarity=98.7013, Reverse Edge Similarity=94.4099
+Tree 0246: RF=10.0, Normalized RF=0.2632
+Tree 0246: Edge Similarity=95.4545, Reverse Edge Similarity=93.3333
+Tree 0247: RF=2.0, Normalized RF=0.2500
+Tree 0247: Edge Similarity=100.0000, Reverse Edge Similarity=90.4762
+Tree 0248: RF=16.0, Normalized RF=0.2051
+Tree 0248: Edge Similarity=98.1818, Reverse Edge Similarity=92.5714
+Tree 0249: RF=5.0, Normalized RF=0.1515
+Tree 0249: Edge Similarity=97.1429, Reverse Edge Similarity=95.7746
+Tree 0250: RF=11.0, Normalized RF=0.1264
+Tree 0250: Edge Similarity=96.0227, Reverse Edge Similarity=97.6879
+Tree 0251: RF=6.0, Normalized RF=0.1765
+Tree 0251: Edge Similarity=100.0000, Reverse Edge Similarity=91.4286
+Tree 0252: RF=10.0, Normalized RF=0.2273
+Tree 0252: Edge Similarity=98.2456, Reverse Edge Similarity=93.3333
+Tree 0253: RF=12.0, Normalized RF=0.1538
+Tree 0253: Edge Similarity=98.7879, Reverse Edge Similarity=94.2197
+Tree 0254: RF=13.0, Normalized RF=0.0992
+Tree 0254: Edge Similarity=98.3051, Reverse Edge Similarity=96.2656
+Tree 0255: RF=11.0, Normalized RF=0.1864
+Tree 0255: Edge Similarity=97.3333, Reverse Edge Similarity=95.4248
+Tree 0256: RF=7.0, Normalized RF=0.1489
+Tree 0256: Edge Similarity=97.1698, Reverse Edge Similarity=96.2617
+Tree 0257: RF=2.0, Normalized RF=0.0714
+Tree 0257: Edge Similarity=100.0000, Reverse Edge Similarity=96.8750
+Tree 0258: RF=2.0, Normalized RF=0.0455
+Tree 0258: Edge Similarity=100.0000, Reverse Edge Similarity=97.6471
+Tree 0259: RF=9.0, Normalized RF=0.0909
+Tree 0259: Edge Similarity=98.9744, Reverse Edge Similarity=96.5000
+Tree 0260: RF=3.0, Normalized RF=0.0462
+Tree 0260: Edge Similarity=99.3421, Reverse Edge Similarity=98.6928
+Tree 0261: RF=22.0, Normalized RF=0.2200
+Tree 0261: Edge Similarity=94.7917, Reverse Edge Similarity=93.8144
+Tree 0262: RF=NA, Normalized RF=0.0000
+Tree 0262: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0263: RF=0.0, Normalized RF=0.0000
+Tree 0263: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0264: RF=20.0, Normalized RF=0.2000
+Tree 0264: Edge Similarity=98.1366, Reverse Edge Similarity=90.2857
+Tree 0265: RF=3.0, Normalized RF=0.0732
+Tree 0265: Edge Similarity=100.0000, Reverse Edge Similarity=97.1429
+Tree 0266: RF=8.0, Normalized RF=0.1250
+Tree 0266: Edge Similarity=97.7941, Reverse Edge Similarity=96.3768
+Tree 0267: RF=13.0, Normalized RF=0.1831
+Tree 0267: Edge Similarity=97.9167, Reverse Edge Similarity=93.3775
+Tree 0268: RF=1.0, Normalized RF=0.0222
+Tree 0268: Edge Similarity=99.0196, Reverse Edge Similarity=100.0000
+Tree 0269: RF=20.0, Normalized RF=0.0840
+Tree 0269: Edge Similarity=98.6425, Reverse Edge Similarity=96.8889
+Tree 0270: RF=0.0, Normalized RF=0.0000
+Tree 0270: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0271: RF=7.0, Normalized RF=0.1489
+Tree 0271: Edge Similarity=98.4127, Reverse Edge Similarity=96.1240
+Tree 0272: RF=14.0, Normalized RF=0.1628
+Tree 0272: Edge Similarity=98.1366, Reverse Edge Similarity=93.4911
+Tree 0273: RF=21.0, Normalized RF=0.1448
+Tree 0273: Edge Similarity=97.8448, Reverse Edge Similarity=93.4156
+Tree 0274: RF=2.0, Normalized RF=0.0667
+Tree 0274: Edge Similarity=100.0000, Reverse Edge Similarity=97.4684
+Tree 0275: RF=11.0, Normalized RF=0.1392
+Tree 0275: Edge Similarity=98.8166, Reverse Edge Similarity=94.8864
+Tree 0276: RF=7.0, Normalized RF=0.2258
+Tree 0276: Edge Similarity=97.7778, Reverse Edge Similarity=94.6237
+Tree 0277: RF=4.0, Normalized RF=0.0870
+Tree 0277: Edge Similarity=100.0000, Reverse Edge Similarity=95.2381
+Tree 0278: RF=0.0, Normalized RF=0.0000
+Tree 0278: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0279: RF=19.0, Normalized RF=0.1776
+Tree 0279: Edge Similarity=97.6000, Reverse Edge Similarity=94.9416
+Tree 0280: RF=2.0, Normalized RF=0.2000
+Tree 0280: Edge Similarity=92.8571, Reverse Edge Similarity=100.0000
+Tree 0281: RF=16.0, Normalized RF=0.1667
+Tree 0281: Edge Similarity=98.8827, Reverse Edge Similarity=92.6702
+Tree 0282: RF=10.0, Normalized RF=0.1042
+Tree 0282: Edge Similarity=97.4359, Reverse Edge Similarity=96.2025
+Tree 0283: RF=2.0, Normalized RF=0.0588
+Tree 0283: Edge Similarity=100.0000, Reverse Edge Similarity=97.8022
+Tree 0284: RF=19.0, Normalized RF=0.1652
+Tree 0284: Edge Similarity=98.5849, Reverse Edge Similarity=92.8889
+Tree 0285: RF=10.0, Normalized RF=0.3333
+Tree 0285: Edge Similarity=100.0000, Reverse Edge Similarity=86.8421
+Tree 0286: RF=17.0, Normalized RF=0.2152
+Tree 0286: Edge Similarity=97.7654, Reverse Edge Similarity=93.0851
+Tree 0287: RF=4.0, Normalized RF=0.2000
+Tree 0287: Edge Similarity=100.0000, Reverse Edge Similarity=88.5714
+Tree 0288: RF=5.0, Normalized RF=0.1351
+Tree 0288: Edge Similarity=100.0000, Reverse Edge Similarity=93.0556
+Tree 0289: RF=12.0, Normalized RF=0.0896
+Tree 0289: Edge Similarity=98.3607, Reverse Edge Similarity=96.7742
+Tree 0290: RF=5.0, Normalized RF=0.1613
+Tree 0290: Edge Similarity=96.4286, Reverse Edge Similarity=97.5904
+Tree 0291: RF=7.0, Normalized RF=0.1556
+Tree 0291: Edge Similarity=95.1220, Reverse Edge Similarity=96.2963
+Tree 0292: RF=11.0, Normalized RF=0.1325
+Tree 0292: Edge Similarity=97.4684, Reverse Edge Similarity=95.6522
+Tree 0293: RF=7.0, Normalized RF=0.0496
+Tree 0293: Edge Similarity=99.5763, Reverse Edge Similarity=97.5104
+Tree 0294: RF=8.0, Normalized RF=0.0702
+Tree 0294: Edge Similarity=98.8636, Reverse Edge Similarity=96.6667
+Tree 0295: RF=12.0, Normalized RF=0.4000
+Tree 0295: Edge Similarity=93.4783, Reverse Edge Similarity=82.6923
+Tree 0296: RF=4.0, Normalized RF=0.1538
+Tree 0296: Edge Similarity=96.1039, Reverse Edge Similarity=98.6667
+Tree 0297: RF=2.0, Normalized RF=0.0714
+Tree 0297: Edge Similarity=97.4684, Reverse Edge Similarity=100.0000
+Tree 0298: RF=5.0, Normalized RF=0.0495
+Tree 0298: Edge Similarity=100.0000, Reverse Edge Similarity=97.3262
+Tree 0299: RF=4.0, Normalized RF=0.0833
+Tree 0299: Edge Similarity=100.0000, Reverse Edge Similarity=96.6387
+Tree 0300: RF=14.0, Normalized RF=0.1458
+Tree 0300: Edge Similarity=98.9583, Reverse Edge Similarity=94.0594
+Tree 0301: RF=16.0, Normalized RF=0.1250
+Tree 0301: Edge Similarity=99.1597, Reverse Edge Similarity=94.4000
+Tree 0302: RF=14.0, Normalized RF=0.1429
+Tree 0302: Edge Similarity=99.2248, Reverse Edge Similarity=90.7801
+Tree 0303: RF=17.0, Normalized RF=0.1018
+Tree 0303: Edge Similarity=98.8593, Reverse Edge Similarity=94.8905
+Tree 0304: RF=10.0, Normalized RF=0.2273
+Tree 0304: Edge Similarity=95.4545, Reverse Edge Similarity=95.4545
+Tree 0305: RF=0.0, Normalized RF=0.0000
+Tree 0305: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0306: RF=0.0, Normalized RF=0.0000
+Tree 0306: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0307: RF=9.0, Normalized RF=0.0604
+Tree 0307: Edge Similarity=98.0769, Reverse Edge Similarity=98.4556
+Tree 0308: RF=2.0, Normalized RF=0.0526
+Tree 0308: Edge Similarity=98.8235, Reverse Edge Similarity=98.8235
+Tree 0309: RF=2.0, Normalized RF=0.2000
+Tree 0309: Edge Similarity=93.1034, Reverse Edge Similarity=100.0000
+Tree 0310: RF=0.0, Normalized RF=0.0000
+Tree 0310: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0311: RF=16.0, Normalized RF=0.1778
+Tree 0311: Edge Similarity=98.1481, Reverse Edge Similarity=92.4419
+Tree 0312: RF=0.0, Normalized RF=0.0000
+Tree 0312: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0313: RF=5.0, Normalized RF=0.1515
+Tree 0313: Edge Similarity=97.3684, Reverse Edge Similarity=96.1039
+Tree 0314: RF=7.0, Normalized RF=0.1707
+Tree 0314: Edge Similarity=100.0000, Reverse Edge Similarity=92.4731
+Tree 0315: RF=9.0, Normalized RF=0.2093
+Tree 0315: Edge Similarity=97.1429, Reverse Edge Similarity=94.4444
+Tree 0316: RF=8.0, Normalized RF=0.1143
+Tree 0316: Edge Similarity=100.0000, Reverse Edge Similarity=94.2446
+Tree 0317: RF=17.0, Normalized RF=0.1259
+Tree 0317: Edge Similarity=98.3740, Reverse Edge Similarity=94.9020
+Tree 0318: RF=2.0, Normalized RF=0.1111
+Tree 0318: Edge Similarity=100.0000, Reverse Edge Similarity=93.1034
+Tree 0319: RF=4.0, Normalized RF=0.0571
+Tree 0319: Edge Similarity=100.0000, Reverse Edge Similarity=97.2414
+Tree 0320: RF=25.0, Normalized RF=0.2294
+Tree 0320: Edge Similarity=99.1770, Reverse Edge Similarity=91.2879
+Tree 0321: RF=4.0, Normalized RF=0.0741
+Tree 0321: Edge Similarity=100.0000, Reverse Edge Similarity=97.1014
+Tree 0322: RF=4.0, Normalized RF=0.1176
+Tree 0322: Edge Similarity=98.4848, Reverse Edge Similarity=95.5882
+Tree 0323: RF=6.0, Normalized RF=0.1500
+Tree 0323: Edge Similarity=92.3077, Reverse Edge Similarity=100.0000
+Tree 0324: RF=4.0, Normalized RF=0.1818
+Tree 0324: Edge Similarity=100.0000, Reverse Edge Similarity=94.5946
+Tree 0325: RF=6.0, Normalized RF=0.1875
+Tree 0325: Edge Similarity=98.0392, Reverse Edge Similarity=90.9091
+Tree 0326: RF=1.0, Normalized RF=0.0667
+Tree 0326: Edge Similarity=100.0000, Reverse Edge Similarity=98.3051
+Tree 0327: RF=3.0, Normalized RF=0.0857
+Tree 0327: Edge Similarity=100.0000, Reverse Edge Similarity=97.0000
+Tree 0328: RF=2.0, Normalized RF=0.0909
+Tree 0328: Edge Similarity=100.0000, Reverse Edge Similarity=96.7742
+Tree 0329: RF=9.0, Normalized RF=0.1169
+Tree 0329: Edge Similarity=99.3865, Reverse Edge Similarity=95.2941
+Tree 0330: RF=22.0, Normalized RF=0.1897
+Tree 0330: Edge Similarity=98.2063, Reverse Edge Similarity=92.4051
+Tree 0331: RF=19.0, Normalized RF=0.1570
+Tree 0331: Edge Similarity=99.1701, Reverse Edge Similarity=93.3594
+Tree 0332: RF=13.0, Normalized RF=0.1150
+Tree 0332: Edge Similarity=99.5455, Reverse Edge Similarity=94.8052
+Tree 0333: RF=17.0, Normalized RF=0.1172
+Tree 0333: Edge Similarity=97.1631, Reverse Edge Similarity=96.8198
+Tree 0334: RF=5.0, Normalized RF=0.1724
+Tree 0334: Edge Similarity=93.7500, Reverse Edge Similarity=95.7447
+Tree 0335: RF=5.0, Normalized RF=0.2174
+Tree 0335: Edge Similarity=97.2222, Reverse Edge Similarity=95.8904
+Tree 0336: RF=4.0, Normalized RF=0.1000
+Tree 0336: Edge Similarity=97.9592, Reverse Edge Similarity=97.9592
+Tree 0337: RF=7.0, Normalized RF=0.2258
+Tree 0337: Edge Similarity=100.0000, Reverse Edge Similarity=90.9091
+Tree 0338: RF=9.0, Normalized RF=0.4737
+Tree 0338: Edge Similarity=87.1795, Reverse Edge Similarity=89.4737
+Tree 0339: RF=3.0, Normalized RF=0.2000
+Tree 0339: Edge Similarity=98.2143, Reverse Edge Similarity=96.4912
+Tree 0340: RF=8.0, Normalized RF=0.1481
+Tree 0340: Edge Similarity=98.1982, Reverse Edge Similarity=94.7826
+Tree 0341: RF=9.0, Normalized RF=0.0783
+Tree 0341: Edge Similarity=99.4924, Reverse Edge Similarity=96.0784
+Tree 0342: RF=3.0, Normalized RF=0.3333
+Tree 0342: Edge Similarity=100.0000, Reverse Edge Similarity=90.6250
+Tree 0343: RF=NA, Normalized RF=0.0000
+Tree 0343: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0344: RF=12.0, Normalized RF=0.1333
+Tree 0344: Edge Similarity=95.9302, Reverse Edge Similarity=97.0588
+Tree 0345: RF=12.0, Normalized RF=0.0923
+Tree 0345: Edge Similarity=97.6744, Reverse Edge Similarity=96.7742
+Tree 0346: RF=10.0, Normalized RF=0.2174
+Tree 0346: Edge Similarity=96.0526, Reverse Edge Similarity=91.2500
+Tree 0347: RF=5.0, Normalized RF=0.1064
+Tree 0347: Edge Similarity=96.9231, Reverse Edge Similarity=99.2126
+Tree 0348: RF=0.0, Normalized RF=0.0000
+Tree 0348: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0349: RF=2.0, Normalized RF=0.0625
+Tree 0349: Edge Similarity=100.0000, Reverse Edge Similarity=97.5904
+Tree 0350: RF=5.0, Normalized RF=0.1282
+Tree 0350: Edge Similarity=95.5056, Reverse Edge Similarity=98.8372
+Tree 0351: RF=25.0, Normalized RF=0.1295
+Tree 0351: Edge Similarity=97.0060, Reverse Edge Similarity=95.5752
+Tree 0352: RF=14.0, Normalized RF=0.1667
+Tree 0352: Edge Similarity=98.0645, Reverse Edge Similarity=93.2515
+Tree 0353: RF=12.0, Normalized RF=0.1091
+Tree 0353: Edge Similarity=100.0000, Reverse Edge Similarity=94.2308
+Tree 0354: RF=9.0, Normalized RF=0.0841
+Tree 0354: Edge Similarity=98.3264, Reverse Edge Similarity=97.9167
+Tree 0355: RF=10.0, Normalized RF=0.0833
+Tree 0355: Edge Similarity=98.9637, Reverse Edge Similarity=95.9799
+Tree 0356: RF=5.0, Normalized RF=0.1351
+Tree 0356: Edge Similarity=98.8764, Reverse Edge Similarity=95.6522
+Tree 0357: RF=3.0, Normalized RF=0.2727
+Tree 0357: Edge Similarity=100.0000, Reverse Edge Similarity=91.4286
+Tree 0358: RF=9.0, Normalized RF=0.0629
+Tree 0358: Edge Similarity=99.6540, Reverse Edge Similarity=97.2973
+Tree 0359: RF=0.0, Normalized RF=0.0000
+Tree 0359: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0360: RF=6.0, Normalized RF=0.0968
+Tree 0360: Edge Similarity=98.1818, Reverse Edge Similarity=96.4286
+Tree 0361: RF=10.0, Normalized RF=0.2381
+Tree 0361: Edge Similarity=98.1132, Reverse Edge Similarity=92.8571
+Tree 0362: RF=9.0, Normalized RF=0.2093
+Tree 0362: Edge Similarity=96.9697, Reverse Edge Similarity=94.1176
+Tree 0363: RF=5.0, Normalized RF=0.0602
+Tree 0363: Edge Similarity=100.0000, Reverse Edge Similarity=97.2527
+Tree 0364: RF=6.0, Normalized RF=0.2727
+Tree 0364: Edge Similarity=100.0000, Reverse Edge Similarity=85.3659
+Tree 0365: RF=NA, Normalized RF=0.0000
+Tree 0365: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0366: RF=14.0, Normalized RF=0.2258
+Tree 0366: Edge Similarity=100.0000, Reverse Edge Similarity=89.8551
+Tree 0367: RF=27.0, Normalized RF=0.1304
+Tree 0367: Edge Similarity=99.7403, Reverse Edge Similarity=93.6585
+Tree 0368: RF=10.0, Normalized RF=0.1613
+Tree 0368: Edge Similarity=100.0000, Reverse Edge Similarity=92.8058
+Tree 0369: RF=0.0, Normalized RF=0.0000
+Tree 0369: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0370: RF=2.0, Normalized RF=0.0526
+Tree 0370: Edge Similarity=100.0000, Reverse Edge Similarity=98.0769
+Tree 0371: RF=16.0, Normalized RF=0.0941
+Tree 0371: Edge Similarity=98.8550, Reverse Edge Similarity=95.2206
+Tree 0372: RF=15.0, Normalized RF=0.2542
+Tree 0372: Edge Similarity=95.9016, Reverse Edge Similarity=92.1260
+Tree 0373: RF=10.0, Normalized RF=0.1471
+Tree 0373: Edge Similarity=96.4539, Reverse Edge Similarity=96.4539
+Tree 0374: RF=26.0, Normalized RF=0.1477
+Tree 0374: Edge Similarity=98.7692, Reverse Edge Similarity=93.5860
+Tree 0375: RF=10.0, Normalized RF=0.1111
+Tree 0375: Edge Similarity=98.0296, Reverse Edge Similarity=97.0732
+Tree 0376: RF=3.0, Normalized RF=0.0667
+Tree 0376: Edge Similarity=98.0952, Reverse Edge Similarity=99.0385
+Tree 0377: RF=6.0, Normalized RF=0.1875
+Tree 0377: Edge Similarity=97.8723, Reverse Edge Similarity=95.8333
+Tree 0378: RF=0.0, Normalized RF=0.0000
+Tree 0378: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0379: RF=14.0, Normalized RF=0.2500
+Tree 0379: Edge Similarity=97.8571, Reverse Edge Similarity=92.5676
+Tree 0380: RF=5.0, Normalized RF=0.0943
+Tree 0380: Edge Similarity=100.0000, Reverse Edge Similarity=95.2381
+Tree 0381: RF=4.0, Normalized RF=0.1176
+Tree 0381: Edge Similarity=98.7805, Reverse Edge Similarity=96.4286
+Tree 0382: RF=11.0, Normalized RF=0.0643
+Tree 0382: Edge Similarity=99.3311, Reverse Edge Similarity=97.0588
+Tree 0383: RF=2.0, Normalized RF=0.1667
+Tree 0383: Edge Similarity=96.0000, Reverse Edge Similarity=96.0000
+Tree 0384: RF=2.0, Normalized RF=0.0556
+Tree 0384: Edge Similarity=100.0000, Reverse Edge Similarity=97.7778
+Tree 0385: RF=11.0, Normalized RF=0.1594
+Tree 0385: Edge Similarity=96.5318, Reverse Edge Similarity=97.0930
+Tree 0386: RF=9.0, Normalized RF=0.2093
+Tree 0386: Edge Similarity=96.2963, Reverse Edge Similarity=95.4128
+Tree 0387: RF=9.0, Normalized RF=0.2308
+Tree 0387: Edge Similarity=100.0000, Reverse Edge Similarity=87.6712
+Tree 0388: RF=12.0, Normalized RF=0.0759
+Tree 0388: Edge Similarity=99.3377, Reverse Edge Similarity=96.7742
+Tree 0389: RF=6.0, Normalized RF=0.0789
+Tree 0389: Edge Similarity=100.0000, Reverse Edge Similarity=96.0000
+Tree 0390: RF=25.0, Normalized RF=0.1799
+Tree 0390: Edge Similarity=96.9466, Reverse Edge Similarity=93.7269
+Tree 0391: RF=NA, Normalized RF=0.0000
+Tree 0391: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0392: RF=13.0, Normalized RF=0.1566
+Tree 0392: Edge Similarity=98.3146, Reverse Edge Similarity=94.5946
+Tree 0393: RF=8.0, Normalized RF=0.1429
+Tree 0393: Edge Similarity=96.2406, Reverse Edge Similarity=97.7099
+Tree 0394: RF=6.0, Normalized RF=0.1667
+Tree 0394: Edge Similarity=100.0000, Reverse Edge Similarity=93.9394
+Tree 0395: RF=5.0, Normalized RF=0.0943
+Tree 0395: Edge Similarity=100.0000, Reverse Edge Similarity=96.0938
+Tree 0396: RF=10.0, Normalized RF=0.3571
+Tree 0396: Edge Similarity=95.9184, Reverse Edge Similarity=85.4545
+Tree 0397: RF=19.0, Normalized RF=0.2000
+Tree 0397: Edge Similarity=98.8166, Reverse Edge Similarity=90.7609
+Tree 0398: RF=6.0, Normalized RF=0.1071
+Tree 0398: Edge Similarity=99.1935, Reverse Edge Similarity=96.0938
+Tree 0399: RF=20.0, Normalized RF=0.1587
+Tree 0399: Edge Similarity=97.8417, Reverse Edge Similarity=95.1049
+Tree 0400: RF=8.0, Normalized RF=0.0889
+Tree 0400: Edge Similarity=100.0000, Reverse Edge Similarity=95.6757
+Tree 0401: RF=15.0, Normalized RF=0.2308
+Tree 0401: Edge Similarity=93.8356, Reverse Edge Similarity=95.8042
+Tree 0402: RF=3.0, Normalized RF=0.0968
+Tree 0402: Edge Similarity=98.3051, Reverse Edge Similarity=96.6667
+Tree 0403: RF=7.0, Normalized RF=0.0986
+Tree 0403: Edge Similarity=100.0000, Reverse Edge Similarity=94.4882
+Tree 0404: RF=0.0, Normalized RF=0.0000
+Tree 0404: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0405: RF=5.0, Normalized RF=0.0746
+Tree 0405: Edge Similarity=98.4962, Reverse Edge Similarity=97.7612
+Tree 0406: RF=13.0, Normalized RF=0.2364
+Tree 0406: Edge Similarity=98.3193, Reverse Edge Similarity=91.4062
+Tree 0407: RF=9.0, Normalized RF=0.3103
+Tree 0407: Edge Similarity=100.0000, Reverse Edge Similarity=91.8182
+Tree 0408: RF=3.0, Normalized RF=0.1579
+Tree 0408: Edge Similarity=100.0000, Reverse Edge Similarity=93.6170
+Tree 0409: RF=1.0, Normalized RF=0.0435
+Tree 0409: Edge Similarity=100.0000, Reverse Edge Similarity=98.3333
+Tree 0410: RF=13.0, Normalized RF=0.1494
+Tree 0410: Edge Similarity=96.2264, Reverse Edge Similarity=95.6250
+Tree 0411: RF=14.0, Normalized RF=0.1061
+Tree 0411: Edge Similarity=97.9424, Reverse Edge Similarity=96.3563
+Tree 0412: RF=6.0, Normalized RF=0.1034
+Tree 0412: Edge Similarity=99.1870, Reverse Edge Similarity=96.0630
+Tree 0413: RF=3.0, Normalized RF=0.0769
+Tree 0413: Edge Similarity=100.0000, Reverse Edge Similarity=97.0588
+Tree 0414: RF=7.0, Normalized RF=0.1321
+Tree 0414: Edge Similarity=100.0000, Reverse Edge Similarity=94.4444
+Tree 0415: RF=6.0, Normalized RF=0.0968
+Tree 0415: Edge Similarity=97.2222, Reverse Edge Similarity=98.5915
+Tree 0416: RF=3.0, Normalized RF=0.2000
+Tree 0416: Edge Similarity=89.6552, Reverse Edge Similarity=100.0000
+Tree 0417: RF=4.0, Normalized RF=0.0476
+Tree 0417: Edge Similarity=98.9691, Reverse Edge Similarity=98.9691
+Tree 0418: RF=16.0, Normalized RF=0.2581
+Tree 0418: Edge Similarity=96.7949, Reverse Edge Similarity=93.2099
+Tree 0419: RF=16.0, Normalized RF=0.2051
+Tree 0419: Edge Similarity=97.3545, Reverse Edge Similarity=94.3590
+Tree 0420: RF=0.0, Normalized RF=0.0000
+Tree 0420: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0421: RF=5.0, Normalized RF=0.1613
+Tree 0421: Edge Similarity=100.0000, Reverse Edge Similarity=90.1961
+Tree 0422: RF=14.0, Normalized RF=0.2414
+Tree 0422: Edge Similarity=98.3193, Reverse Edge Similarity=90.6977
+Tree 0423: RF=14.0, Normalized RF=0.1186
+Tree 0423: Edge Similarity=100.0000, Reverse Edge Similarity=94.4444
+Tree 0424: RF=8.0, Normalized RF=0.1905
+Tree 0424: Edge Similarity=100.0000, Reverse Edge Similarity=92.5234
+Tree 0425: RF=4.0, Normalized RF=0.1429
+Tree 0425: Edge Similarity=96.0000, Reverse Edge Similarity=100.0000
+Tree 0426: RF=6.0, Normalized RF=0.1429
+Tree 0426: Edge Similarity=100.0000, Reverse Edge Similarity=94.5946
+Tree 0427: RF=9.0, Normalized RF=0.2000
+Tree 0427: Edge Similarity=96.2617, Reverse Edge Similarity=95.3704
+Tree 0428: RF=8.0, Normalized RF=0.2000
+Tree 0428: Edge Similarity=100.0000, Reverse Edge Similarity=88.4058
+Tree 0429: RF=17.0, Normalized RF=0.1717
+Tree 0429: Edge Similarity=98.8304, Reverse Edge Similarity=91.8478
+Tree 0430: RF=3.0, Normalized RF=0.0968
+Tree 0430: Edge Similarity=100.0000, Reverse Edge Similarity=96.9388
+Tree 0431: RF=12.0, Normalized RF=0.1765
+Tree 0431: Edge Similarity=97.2414, Reverse Edge Similarity=94.6309
+Tree 0432: RF=13.0, Normalized RF=0.3333
+Tree 0432: Edge Similarity=94.9367, Reverse Edge Similarity=89.2857
+Tree 0433: RF=2.0, Normalized RF=0.2000
+Tree 0433: Edge Similarity=100.0000, Reverse Edge Similarity=92.0000
+Tree 0434: RF=9.0, Normalized RF=0.1636
+Tree 0434: Edge Similarity=98.3471, Reverse Edge Similarity=94.4444
+Tree 0435: RF=20.0, Normalized RF=0.1754
+Tree 0435: Edge Similarity=97.5490, Reverse Edge Similarity=92.9907
+Tree 0436: RF=7.0, Normalized RF=0.0909
+Tree 0436: Edge Similarity=99.3464, Reverse Edge Similarity=96.2025
+Tree 0437: RF=4.0, Normalized RF=0.1667
+Tree 0437: Edge Similarity=100.0000, Reverse Edge Similarity=94.9367
+Tree 0438: RF=7.0, Normalized RF=0.1228
+Tree 0438: Edge Similarity=97.1223, Reverse Edge Similarity=97.8261
+Tree 0439: RF=4.0, Normalized RF=0.2222
+Tree 0439: Edge Similarity=100.0000, Reverse Edge Similarity=94.0299
+Tree 0440: RF=0.0, Normalized RF=0.0000
+Tree 0440: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0441: RF=18.0, Normalized RF=0.1216
+Tree 0441: Edge Similarity=96.8992, Reverse Edge Similarity=96.1538
+Tree 0442: RF=14.0, Normalized RF=0.1111
+Tree 0442: Edge Similarity=98.6239, Reverse Edge Similarity=95.1327
+Tree 0443: RF=3.0, Normalized RF=0.0857
+Tree 0443: Edge Similarity=100.0000, Reverse Edge Similarity=97.1698
+Tree 0444: RF=10.0, Normalized RF=0.1515
+Tree 0444: Edge Similarity=97.2414, Reverse Edge Similarity=95.9184
+Tree 0445: RF=2.0, Normalized RF=0.0476
+Tree 0445: Edge Similarity=100.0000, Reverse Edge Similarity=98.1132
+Tree 0446: RF=9.0, Normalized RF=0.1139
+Tree 0446: Edge Similarity=97.5155, Reverse Edge Similarity=96.9136
+Tree 0447: RF=6.0, Normalized RF=0.0938
+Tree 0447: Edge Similarity=98.6301, Reverse Edge Similarity=97.2973
+Tree 0448: RF=8.0, Normalized RF=0.1379
+Tree 0448: Edge Similarity=96.0938, Reverse Edge Similarity=97.6190
+Tree 0449: RF=11.0, Normalized RF=0.2444
+Tree 0449: Edge Similarity=98.2906, Reverse Edge Similarity=92.7419
+Tree 0450: RF=15.0, Normalized RF=0.3488
+Tree 0450: Edge Similarity=92.2078, Reverse Edge Similarity=88.7500
+Tree 0451: RF=10.0, Normalized RF=0.1389
+Tree 0451: Edge Similarity=98.4252, Reverse Edge Similarity=93.9850
+Tree 0452: RF=18.0, Normalized RF=0.1731
+Tree 0452: Edge Similarity=97.8836, Reverse Edge Similarity=92.9648
+Tree 0453: RF=13.0, Normalized RF=0.1529
+Tree 0453: Edge Similarity=98.3333, Reverse Edge Similarity=94.6524
+Tree 0454: RF=9.0, Normalized RF=0.2093
+Tree 0454: Edge Similarity=100.0000, Reverse Edge Similarity=89.6552
+Tree 0455: RF=0.0, Normalized RF=0.0000
+Tree 0455: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0456: RF=3.0, Normalized RF=0.0566
+Tree 0456: Edge Similarity=97.6190, Reverse Edge Similarity=100.0000
+Tree 0457: RF=10.0, Normalized RF=0.2000
+Tree 0457: Edge Similarity=95.5882, Reverse Edge Similarity=97.0149
+Tree 0458: RF=10.0, Normalized RF=0.1562
+Tree 0458: Edge Similarity=99.2063, Reverse Edge Similarity=93.2836
+Tree 0459: RF=26.0, Normalized RF=0.2203
+Tree 0459: Edge Similarity=99.0385, Reverse Edge Similarity=89.5652
+Tree 0460: RF=6.0, Normalized RF=0.2727
+Tree 0460: Edge Similarity=92.1569, Reverse Edge Similarity=95.9184
+Tree 0461: RF=3.0, Normalized RF=0.0545
+Tree 0461: Edge Similarity=100.0000, Reverse Edge Similarity=96.7742
+Tree 0462: RF=9.0, Normalized RF=0.1765
+Tree 0462: Edge Similarity=98.4615, Reverse Edge Similarity=94.8148
+Tree 0463: RF=10.0, Normalized RF=0.1667
+Tree 0463: Edge Similarity=98.2301, Reverse Edge Similarity=93.2773
+Tree 0464: RF=8.0, Normalized RF=0.1081
+Tree 0464: Edge Similarity=100.0000, Reverse Edge Similarity=95.0311
+Tree 0465: RF=11.0, Normalized RF=0.1134
+Tree 0465: Edge Similarity=98.5782, Reverse Edge Similarity=96.2963
+Tree 0466: RF=7.0, Normalized RF=0.1373
+Tree 0466: Edge Similarity=98.0392, Reverse Edge Similarity=95.2381
+Tree 0467: RF=3.0, Normalized RF=0.1304
+Tree 0467: Edge Similarity=95.3846, Reverse Edge Similarity=100.0000
+Tree 0468: RF=0.0, Normalized RF=0.0000
+Tree 0468: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0469: RF=0.0, Normalized RF=0.0000
+Tree 0469: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0470: RF=6.0, Normalized RF=0.1765
+Tree 0470: Edge Similarity=100.0000, Reverse Edge Similarity=90.6250
+Tree 0471: RF=13.0, Normalized RF=0.1150
+Tree 0471: Edge Similarity=97.6959, Reverse Edge Similarity=96.3636
+Tree 0472: RF=7.0, Normalized RF=0.1556
+Tree 0472: Edge Similarity=100.0000, Reverse Edge Similarity=92.0455
+Tree 0473: RF=12.0, Normalized RF=0.2000
+Tree 0473: Edge Similarity=97.6562, Reverse Edge Similarity=93.2836
+Tree 0474: RF=6.0, Normalized RF=0.1875
+Tree 0474: Edge Similarity=94.1176, Reverse Edge Similarity=94.1176
+Tree 0475: RF=5.0, Normalized RF=0.1852
+Tree 0475: Edge Similarity=98.5915, Reverse Edge Similarity=94.5946
+Tree 0476: RF=3.0, Normalized RF=0.1111
+Tree 0476: Edge Similarity=98.1481, Reverse Edge Similarity=96.3636
+Tree 0477: RF=16.0, Normalized RF=0.1600
+Tree 0477: Edge Similarity=98.9637, Reverse Edge Similarity=93.1707
+Tree 0478: RF=8.0, Normalized RF=0.1333
+Tree 0478: Edge Similarity=97.6190, Reverse Edge Similarity=96.0938
+Tree 0479: RF=4.0, Normalized RF=0.0714
+Tree 0479: Edge Similarity=99.0826, Reverse Edge Similarity=97.2973
+Tree 0480: RF=8.0, Normalized RF=0.1667
+Tree 0480: Edge Similarity=98.3193, Reverse Edge Similarity=95.1220
+Tree 0481: RF=3.0, Normalized RF=0.1111
+Tree 0481: Edge Similarity=100.0000, Reverse Edge Similarity=94.1176
+Tree 0482: RF=1.0, Normalized RF=0.0526
+Tree 0482: Edge Similarity=100.0000, Reverse Edge Similarity=97.1429
+Tree 0483: RF=10.0, Normalized RF=0.5000
+Tree 0483: Edge Similarity=90.1961, Reverse Edge Similarity=90.1961
+Tree 0484: RF=8.0, Normalized RF=0.1333
+Tree 0484: Edge Similarity=98.9796, Reverse Edge Similarity=93.2692
+Tree 0485: RF=8.0, Normalized RF=0.2000
+Tree 0485: Edge Similarity=96.4706, Reverse Edge Similarity=94.2529
+Tree 0486: RF=3.0, Normalized RF=0.1429
+Tree 0486: Edge Similarity=98.4127, Reverse Edge Similarity=96.8750
+Tree 0487: RF=9.0, Normalized RF=0.4286
+Tree 0487: Edge Similarity=98.4615, Reverse Edge Similarity=88.8889
+Tree 0488: RF=11.0, Normalized RF=0.4783
+Tree 0488: Edge Similarity=93.1034, Reverse Edge Similarity=88.5246
+Tree 0489: RF=5.0, Normalized RF=0.0685
+Tree 0489: Edge Similarity=100.0000, Reverse Edge Similarity=96.8750
+Tree 0490: RF=2.0, Normalized RF=0.0435
+Tree 0490: Edge Similarity=100.0000, Reverse Edge Similarity=97.9592
+Tree 0491: RF=6.0, Normalized RF=0.1500
+Tree 0491: Edge Similarity=95.7895, Reverse Edge Similarity=97.8495
+Tree 0492: RF=14.0, Normalized RF=0.1750
+Tree 0492: Edge Similarity=98.4252, Reverse Edge Similarity=91.2409
+Tree 0493: RF=10.0, Normalized RF=0.1515
+Tree 0493: Edge Similarity=94.1176, Reverse Edge Similarity=97.3913
+Tree 0494: RF=2.0, Normalized RF=0.0323
+Tree 0494: Edge Similarity=100.0000, Reverse Edge Similarity=98.0583
+Tree 0495: RF=21.0, Normalized RF=0.1257
+Tree 0495: Edge Similarity=97.9730, Reverse Edge Similarity=95.0820
+Tree 0496: RF=7.0, Normalized RF=0.1273
+Tree 0496: Edge Similarity=95.1613, Reverse Edge Similarity=99.1597
+Tree 0497: RF=5.0, Normalized RF=0.1064
+Tree 0497: Edge Similarity=100.0000, Reverse Edge Similarity=94.1860
+Tree 0498: RF=1.0, Normalized RF=0.1111
+Tree 0498: Edge Similarity=100.0000, Reverse Edge Similarity=96.1538
+Tree 0499: RF=6.0, Normalized RF=0.1765
+Tree 0499: Edge Similarity=100.0000, Reverse Edge Similarity=94.0594
+Tree 0500: RF=0.0, Normalized RF=0.0000
+Tree 0500: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0501: RF=3.0, Normalized RF=0.0400
+Tree 0501: Edge Similarity=99.3103, Reverse Edge Similarity=98.6301
+Tree 0502: RF=6.0, Normalized RF=0.0750
+Tree 0502: Edge Similarity=98.2759, Reverse Edge Similarity=98.2759
+Tree 0503: RF=2.0, Normalized RF=0.0667
+Tree 0503: Edge Similarity=100.0000, Reverse Edge Similarity=97.4359
+Tree 0504: RF=17.0, Normalized RF=0.2267
+Tree 0504: Edge Similarity=97.6471, Reverse Edge Similarity=92.7374
+Tree 0505: RF=3.0, Normalized RF=0.2308
+Tree 0505: Edge Similarity=93.3333, Reverse Edge Similarity=100.0000
+Tree 0506: RF=11.0, Normalized RF=0.2157
+Tree 0506: Edge Similarity=100.0000, Reverse Edge Similarity=91.2698
+Tree 0507: RF=3.0, Normalized RF=0.1111
+Tree 0507: Edge Similarity=100.0000, Reverse Edge Similarity=95.4545
+Tree 0508: RF=5.0, Normalized RF=0.1282
+Tree 0508: Edge Similarity=96.9388, Reverse Edge Similarity=97.9381
+Tree 0509: RF=10.0, Normalized RF=0.2174
+Tree 0509: Edge Similarity=95.2381, Reverse Edge Similarity=95.2381
+Tree 0510: RF=17.0, Normalized RF=0.1360
+Tree 0510: Edge Similarity=99.1903, Reverse Edge Similarity=94.2308
+Tree 0511: RF=7.0, Normalized RF=0.0909
+Tree 0511: Edge Similarity=98.7097, Reverse Edge Similarity=96.8354
+Tree 0512: RF=8.0, Normalized RF=0.1538
+Tree 0512: Edge Similarity=98.1308, Reverse Edge Similarity=94.5946
+Tree 0513: RF=12.0, Normalized RF=0.1714
+Tree 0513: Edge Similarity=97.9021, Reverse Edge Similarity=93.9597
+Tree 0514: RF=6.0, Normalized RF=0.2143
+Tree 0514: Edge Similarity=94.5205, Reverse Edge Similarity=97.1831
+Tree 0515: RF=0.0, Normalized RF=0.0000
+Tree 0515: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0516: RF=4.0, Normalized RF=0.1818
+Tree 0516: Edge Similarity=96.7742, Reverse Edge Similarity=96.7742
+Tree 0517: RF=25.0, Normalized RF=0.1142
+Tree 0517: Edge Similarity=98.9011, Reverse Edge Similarity=94.4882
+Tree 0518: RF=13.0, Normalized RF=0.1238
+Tree 0518: Edge Similarity=98.6425, Reverse Edge Similarity=95.6140
+Tree 0519: RF=8.0, Normalized RF=0.1250
+Tree 0519: Edge Similarity=96.4539, Reverse Edge Similarity=97.8417
+Tree 0520: RF=4.0, Normalized RF=0.1053
+Tree 0520: Edge Similarity=100.0000, Reverse Edge Similarity=95.6044
+Tree 0521: RF=9.0, Normalized RF=0.2308
+Tree 0521: Edge Similarity=96.8421, Reverse Edge Similarity=93.8776
+Tree 0522: RF=2.0, Normalized RF=0.2500
+Tree 0522: Edge Similarity=90.0000, Reverse Edge Similarity=100.0000
+Tree 0523: RF=9.0, Normalized RF=0.1034
+Tree 0523: Edge Similarity=98.1707, Reverse Edge Similarity=96.4072
+Tree 0524: RF=14.0, Normalized RF=0.1029
+Tree 0524: Edge Similarity=100.0000, Reverse Edge Similarity=94.5312
+Tree 0525: RF=3.0, Normalized RF=0.0811
+Tree 0525: Edge Similarity=98.3607, Reverse Edge Similarity=96.7742
+Tree 0526: RF=10.0, Normalized RF=0.1087
+Tree 0526: Edge Similarity=98.2456, Reverse Edge Similarity=96.0000
+Tree 0527: RF=2.0, Normalized RF=0.3333
+Tree 0527: Edge Similarity=100.0000, Reverse Edge Similarity=96.4912
+Tree 0528: RF=4.0, Normalized RF=0.1176
+Tree 0528: Edge Similarity=96.5116, Reverse Edge Similarity=98.8095
+Tree 0529: RF=10.0, Normalized RF=0.1613
+Tree 0529: Edge Similarity=100.0000, Reverse Edge Similarity=92.9577
+Tree 0530: RF=5.0, Normalized RF=0.2381
+Tree 0530: Edge Similarity=94.9153, Reverse Edge Similarity=96.5517
+Tree 0531: RF=5.0, Normalized RF=0.0847
+Tree 0531: Edge Similarity=98.4615, Reverse Edge Similarity=97.7099
+Tree 0532: RF=1.0, Normalized RF=0.0323
+Tree 0532: Edge Similarity=100.0000, Reverse Edge Similarity=97.9592
+Tree 0533: RF=4.0, Normalized RF=0.5000
+Tree 0533: Edge Similarity=95.6522, Reverse Edge Similarity=95.6522
+Tree 0534: RF=17.0, Normalized RF=0.1429
+Tree 0534: Edge Similarity=97.9275, Reverse Edge Similarity=93.5644
+Tree 0535: RF=9.0, Normalized RF=0.1111
+Tree 0535: Edge Similarity=97.6190, Reverse Edge Similarity=97.0414
+Tree 0536: RF=2.0, Normalized RF=0.0476
+Tree 0536: Edge Similarity=100.0000, Reverse Edge Similarity=97.7011
+Tree 0537: RF=10.0, Normalized RF=0.2083
+Tree 0537: Edge Similarity=100.0000, Reverse Edge Similarity=90.0990
+Tree 0538: RF=0.0, Normalized RF=0.0000
+Tree 0538: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0539: RF=18.0, Normalized RF=0.1452
+Tree 0539: Edge Similarity=96.9543, Reverse Edge Similarity=94.0887
+Tree 0540: RF=4.0, Normalized RF=0.2222
+Tree 0540: Edge Similarity=100.0000, Reverse Edge Similarity=92.1569
+Tree 0541: RF=2.0, Normalized RF=0.0833
+Tree 0541: Edge Similarity=95.1220, Reverse Edge Similarity=100.0000
+Tree 0542: RF=4.0, Normalized RF=0.0800
+Tree 0542: Edge Similarity=100.0000, Reverse Edge Similarity=96.9466
+Tree 0543: RF=5.0, Normalized RF=0.2381
+Tree 0543: Edge Similarity=100.0000, Reverse Edge Similarity=91.6667
+Tree 0544: RF=15.0, Normalized RF=0.1685
+Tree 0544: Edge Similarity=97.6190, Reverse Edge Similarity=93.7143
+Tree 0545: RF=4.0, Normalized RF=0.1000
+Tree 0545: Edge Similarity=98.7013, Reverse Edge Similarity=96.2025
+Tree 0546: RF=13.0, Normalized RF=0.1111
+Tree 0546: Edge Similarity=98.8189, Reverse Edge Similarity=96.1686
+Tree 0547: RF=3.0, Normalized RF=0.0345
+Tree 0547: Edge Similarity=98.6207, Reverse Edge Similarity=99.3056
+Tree 0548: RF=17.0, Normalized RF=0.1619
+Tree 0548: Edge Similarity=98.1735, Reverse Edge Similarity=94.2982
+Tree 0549: RF=12.0, Normalized RF=0.1500
+Tree 0549: Edge Similarity=99.2647, Reverse Edge Similarity=92.4658
+Tree 0550: RF=9.0, Normalized RF=0.1636
+Tree 0550: Edge Similarity=100.0000, Reverse Edge Similarity=91.8182
+Tree 0551: RF=9.0, Normalized RF=0.1385
+Tree 0551: Edge Similarity=95.3125, Reverse Edge Similarity=97.6000
+Tree 0552: RF=6.0, Normalized RF=0.1429
+Tree 0552: Edge Similarity=100.0000, Reverse Edge Similarity=95.5224
+Tree 0553: RF=6.0, Normalized RF=0.2500
+Tree 0553: Edge Similarity=95.5556, Reverse Edge Similarity=91.4894
+Tree 0554: RF=10.0, Normalized RF=0.1429
+Tree 0554: Edge Similarity=98.0519, Reverse Edge Similarity=95.5696
+Tree 0555: RF=23.0, Normalized RF=0.2190
+Tree 0555: Edge Similarity=97.9381, Reverse Edge Similarity=90.9091
+Tree 0556: RF=6.0, Normalized RF=0.0857
+Tree 0556: Edge Similarity=97.7143, Reverse Edge Similarity=98.8439
+Tree 0557: RF=8.0, Normalized RF=0.0851
+Tree 0557: Edge Similarity=100.0000, Reverse Edge Similarity=95.2096
+Tree 0558: RF=13.0, Normalized RF=0.1429
+Tree 0558: Edge Similarity=96.3636, Reverse Edge Similarity=95.7831
+Tree 0559: RF=3.0, Normalized RF=0.0435
+Tree 0559: Edge Similarity=99.3056, Reverse Edge Similarity=98.6207
+Tree 0560: RF=13.0, Normalized RF=0.1040
+Tree 0560: Edge Similarity=99.0950, Reverse Edge Similarity=95.2174
+Tree 0561: RF=3.0, Normalized RF=0.2308
+Tree 0561: Edge Similarity=100.0000, Reverse Edge Similarity=86.3636
+Tree 0562: RF=6.0, Normalized RF=0.0789
+Tree 0562: Edge Similarity=99.3827, Reverse Edge Similarity=96.9880
+Tree 0563: RF=9.0, Normalized RF=0.1636
+Tree 0563: Edge Similarity=96.8000, Reverse Edge Similarity=96.0317
+Tree 0564: RF=11.0, Normalized RF=0.1183
+Tree 0564: Edge Similarity=97.7143, Reverse Edge Similarity=96.0674
+Tree 0565: RF=27.0, Normalized RF=0.1292
+Tree 0565: Edge Similarity=99.2228, Reverse Edge Similarity=94.1032
+Tree 0566: RF=12.0, Normalized RF=0.0952
+Tree 0566: Edge Similarity=98.0000, Reverse Edge Similarity=97.2222
+Tree 0567: RF=13.0, Normalized RF=0.1368
+Tree 0567: Edge Similarity=97.7778, Reverse Edge Similarity=95.1351
+Tree 0568: RF=12.0, Normalized RF=0.0896
+Tree 0568: Edge Similarity=100.0000, Reverse Edge Similarity=95.3125
+Tree 0569: RF=9.0, Normalized RF=0.1915
+Tree 0569: Edge Similarity=98.3193, Reverse Edge Similarity=94.3548
+Tree 0570: RF=12.0, Normalized RF=0.1714
+Tree 0570: Edge Similarity=99.2188, Reverse Edge Similarity=92.0290
+Tree 0571: RF=4.0, Normalized RF=0.0556
+Tree 0571: Edge Similarity=98.5185, Reverse Edge Similarity=98.5185
+Tree 0572: RF=11.0, Normalized RF=0.1594
+Tree 0572: Edge Similarity=97.0588, Reverse Edge Similarity=94.9640
+Tree 0573: RF=7.0, Normalized RF=0.1707
+Tree 0573: Edge Similarity=100.0000, Reverse Edge Similarity=93.9130
+Tree 0574: RF=7.0, Normalized RF=0.1228
+Tree 0574: Edge Similarity=100.0000, Reverse Edge Similarity=94.7761
+Tree 0575: RF=5.0, Normalized RF=0.2000
+Tree 0575: Edge Similarity=97.8723, Reverse Edge Similarity=96.8421
+Tree 0576: RF=0.0, Normalized RF=0.0000
+Tree 0576: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0577: RF=20.0, Normalized RF=0.1333
+Tree 0577: Edge Similarity=97.1888, Reverse Edge Similarity=94.9020
+Tree 0578: RF=15.0, Normalized RF=0.1546
+Tree 0578: Edge Similarity=97.6608, Reverse Edge Similarity=93.8202
+Tree 0579: RF=13.0, Normalized RF=0.2453
+Tree 0579: Edge Similarity=100.0000, Reverse Edge Similarity=90.5797
+Tree 0580: RF=5.0, Normalized RF=0.1724
+Tree 0580: Edge Similarity=98.6667, Reverse Edge Similarity=94.8718
+Tree 0581: RF=7.0, Normalized RF=0.6364
+Tree 0581: Edge Similarity=100.0000, Reverse Edge Similarity=84.0909
+Tree 0582: RF=6.0, Normalized RF=0.0968
+Tree 0582: Edge Similarity=97.3451, Reverse Edge Similarity=97.3451
+Tree 0583: RF=10.0, Normalized RF=0.2778
+Tree 0583: Edge Similarity=95.9459, Reverse Edge Similarity=91.0256
+Tree 0584: RF=5.0, Normalized RF=0.1111
+Tree 0584: Edge Similarity=100.0000, Reverse Edge Similarity=93.7500
+Tree 0585: RF=25.0, Normalized RF=0.1232
+Tree 0585: Edge Similarity=98.2955, Reverse Edge Similarity=94.7945
+Tree 0586: RF=13.0, Normalized RF=0.0992
+Tree 0586: Edge Similarity=99.1189, Reverse Edge Similarity=95.3390
+Tree 0587: RF=10.0, Normalized RF=0.3333
+Tree 0587: Edge Similarity=100.0000, Reverse Edge Similarity=90.0990
+Tree 0588: RF=11.0, Normalized RF=0.2245
+Tree 0588: Edge Similarity=100.0000, Reverse Edge Similarity=90.7563
+Tree 0589: RF=3.0, Normalized RF=0.1200
+Tree 0589: Edge Similarity=97.2973, Reverse Edge Similarity=98.6301
+Tree 0590: RF=5.0, Normalized RF=0.0602
+Tree 0590: Edge Similarity=99.3377, Reverse Edge Similarity=97.4026
+Tree 0591: RF=2.0, Normalized RF=0.0556
+Tree 0591: Edge Similarity=100.0000, Reverse Edge Similarity=96.7213
+Tree 0592: RF=5.0, Normalized RF=0.0667
+Tree 0592: Edge Similarity=100.0000, Reverse Edge Similarity=96.8750
+Tree 0593: RF=2.0, Normalized RF=0.0667
+Tree 0593: Edge Similarity=96.5517, Reverse Edge Similarity=100.0000
+Tree 0594: RF=5.0, Normalized RF=0.7143
+Tree 0594: Edge Similarity=95.0000, Reverse Edge Similarity=92.6829
+Tree 0595: RF=11.0, Normalized RF=0.1264
+Tree 0595: Edge Similarity=99.4595, Reverse Edge Similarity=94.8454
+Tree 0596: RF=22.0, Normalized RF=0.1528
+Tree 0596: Edge Similarity=97.5610, Reverse Edge Similarity=93.7500
+Tree 0597: RF=7.0, Normalized RF=0.1077
+Tree 0597: Edge Similarity=97.6000, Reverse Edge Similarity=96.8254
+Tree 0598: RF=0.0, Normalized RF=0.0000
+Tree 0598: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0599: RF=6.0, Normalized RF=0.1111
+Tree 0599: Edge Similarity=100.0000, Reverse Edge Similarity=95.1613
+Tree 0600: RF=11.0, Normalized RF=0.2075
+Tree 0600: Edge Similarity=100.0000, Reverse Edge Similarity=92.4138
+Tree 0601: RF=13.0, Normalized RF=0.2766
+Tree 0601: Edge Similarity=100.0000, Reverse Edge Similarity=86.7347
+Tree 0602: RF=12.0, Normalized RF=0.1333
+Tree 0602: Edge Similarity=100.0000, Reverse Edge Similarity=94.0299
+Tree 0603: RF=2.0, Normalized RF=0.0714
+Tree 0603: Edge Similarity=100.0000, Reverse Edge Similarity=97.3333
+Tree 0604: RF=10.0, Normalized RF=0.1852
+Tree 0604: Edge Similarity=98.0952, Reverse Edge Similarity=92.7928
+Tree 0605: RF=13.0, Normalized RF=0.2131
+Tree 0605: Edge Similarity=96.2406, Reverse Edge Similarity=94.1176
+Tree 0606: RF=2.0, Normalized RF=0.5000
+Tree 0606: Edge Similarity=100.0000, Reverse Edge Similarity=93.3333
+Tree 0607: RF=19.0, Normalized RF=0.3333
+Tree 0607: Edge Similarity=96.8000, Reverse Edge Similarity=88.9706
+Tree 0608: RF=13.0, Normalized RF=0.1340
+Tree 0608: Edge Similarity=96.2766, Reverse Edge Similarity=96.7914
+Tree 0609: RF=1.0, Normalized RF=0.0323
+Tree 0609: Edge Similarity=98.6667, Reverse Edge Similarity=100.0000
+Tree 0610: RF=6.0, Normalized RF=0.1111
+Tree 0610: Edge Similarity=100.0000, Reverse Edge Similarity=95.2000
+Tree 0611: RF=10.0, Normalized RF=0.1351
+Tree 0611: Edge Similarity=97.2527, Reverse Edge Similarity=97.2527
+Tree 0612: RF=7.0, Normalized RF=0.0609
+Tree 0612: Edge Similarity=100.0000, Reverse Edge Similarity=97.2000
+Tree 0613: RF=16.0, Normalized RF=0.1176
+Tree 0613: Edge Similarity=98.9547, Reverse Edge Similarity=95.6229
+Tree 0614: RF=19.0, Normalized RF=0.2088
+Tree 0614: Edge Similarity=98.6047, Reverse Edge Similarity=92.9825
+Tree 0615: RF=13.0, Normalized RF=0.2131
+Tree 0615: Edge Similarity=100.0000, Reverse Edge Similarity=90.9091
+Tree 0616: RF=21.0, Normalized RF=0.2000
+Tree 0616: Edge Similarity=99.6226, Reverse Edge Similarity=92.9577
+Tree 0617: RF=0.0, Normalized RF=0.0000
+Tree 0617: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0618: RF=4.0, Normalized RF=0.0606
+Tree 0618: Edge Similarity=97.6000, Reverse Edge Similarity=99.1870
+Tree 0619: RF=9.0, Normalized RF=0.1034
+Tree 0619: Edge Similarity=98.7097, Reverse Edge Similarity=95.6250
+Tree 0620: RF=7.0, Normalized RF=0.1321
+Tree 0620: Edge Similarity=97.0297, Reverse Edge Similarity=96.0784
+Tree 0621: RF=13.0, Normalized RF=0.1313
+Tree 0621: Edge Similarity=98.5507, Reverse Edge Similarity=95.3271
+Tree 0622: RF=13.0, Normalized RF=0.1313
+Tree 0622: Edge Similarity=98.2558, Reverse Edge Similarity=94.4134
+Tree 0623: RF=2.0, Normalized RF=0.0435
+Tree 0623: Edge Similarity=98.7013, Reverse Edge Similarity=98.7013
+Tree 0624: RF=5.0, Normalized RF=0.2632
+Tree 0624: Edge Similarity=92.9825, Reverse Edge Similarity=98.1481
+Tree 0625: RF=8.0, Normalized RF=0.0930
+Tree 0625: Edge Similarity=97.7099, Reverse Edge Similarity=96.2406
+Tree 0626: RF=3.0, Normalized RF=0.0566
+Tree 0626: Edge Similarity=100.0000, Reverse Edge Similarity=97.5207
+Tree 0627: RF=0.0, Normalized RF=0.0000
+Tree 0627: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0628: RF=11.0, Normalized RF=0.2000
+Tree 0628: Edge Similarity=97.5207, Reverse Edge Similarity=93.6508
+Tree 0629: RF=6.0, Normalized RF=0.0909
+Tree 0629: Edge Similarity=100.0000, Reverse Edge Similarity=95.6522
+Tree 0630: RF=2.0, Normalized RF=0.0333
+Tree 0630: Edge Similarity=100.0000, Reverse Edge Similarity=98.4000
+Tree 0631: RF=1.0, Normalized RF=0.0256
+Tree 0631: Edge Similarity=100.0000, Reverse Edge Similarity=98.7013
+Tree 0632: RF=0.0, Normalized RF=0.0000
+Tree 0632: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0633: RF=20.0, Normalized RF=0.1613
+Tree 0633: Edge Similarity=98.8235, Reverse Edge Similarity=93.6803
+Tree 0634: RF=4.0, Normalized RF=0.1176
+Tree 0634: Edge Similarity=100.0000, Reverse Edge Similarity=93.3333
+Tree 0635: RF=8.0, Normalized RF=0.0606
+Tree 0635: Edge Similarity=98.9619, Reverse Edge Similarity=98.2818
+Tree 0636: RF=9.0, Normalized RF=0.1268
+Tree 0636: Edge Similarity=98.4962, Reverse Edge Similarity=94.9275
+Tree 0637: RF=3.0, Normalized RF=0.0291
+Tree 0637: Edge Similarity=100.0000, Reverse Edge Similarity=98.3333
+Tree 0638: RF=1.0, Normalized RF=0.0588
+Tree 0638: Edge Similarity=100.0000, Reverse Edge Similarity=98.0392
+Tree 0639: RF=3.0, Normalized RF=0.2308
+Tree 0639: Edge Similarity=100.0000, Reverse Edge Similarity=96.4706
+Tree 0640: RF=7.0, Normalized RF=0.1186
+Tree 0640: Edge Similarity=96.0630, Reverse Edge Similarity=98.3871
+Tree 0641: RF=0.0, Normalized RF=0.0000
+Tree 0641: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0642: RF=8.0, Normalized RF=0.0625
+Tree 0642: Edge Similarity=98.6047, Reverse Edge Similarity=97.6959
+Tree 0643: RF=1.0, Normalized RF=1.0000
+Tree 0643: Edge Similarity=100.0000, Reverse Edge Similarity=93.7500
+Tree 0644: RF=0.0, Normalized RF=0.0000
+Tree 0644: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0645: RF=16.0, Normalized RF=0.2222
+Tree 0645: Edge Similarity=100.0000, Reverse Edge Similarity=90.0000
+Tree 0646: RF=1.0, Normalized RF=1.0000
+Tree 0646: Edge Similarity=100.0000, Reverse Edge Similarity=83.3333
+Tree 0647: RF=0.0, Normalized RF=0.0000
+Tree 0647: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0648: RF=10.0, Normalized RF=0.1786
+Tree 0648: Edge Similarity=100.0000, Reverse Edge Similarity=92.3077
+Tree 0649: RF=13.0, Normalized RF=0.1040
+Tree 0649: Edge Similarity=98.5019, Reverse Edge Similarity=96.6912
+Tree 0650: RF=7.0, Normalized RF=0.2121
+Tree 0650: Edge Similarity=100.0000, Reverse Edge Similarity=91.9540
+Tree 0651: RF=25.0, Normalized RF=0.1232
+Tree 0651: Edge Similarity=98.9276, Reverse Edge Similarity=94.6154
+Tree 0652: RF=8.0, Normalized RF=0.1176
+Tree 0652: Edge Similarity=98.3871, Reverse Edge Similarity=95.3125
+Tree 0653: RF=10.0, Normalized RF=0.1351
+Tree 0653: Edge Similarity=98.2249, Reverse Edge Similarity=95.9538
+Tree 0654: RF=8.0, Normalized RF=0.2105
+Tree 0654: Edge Similarity=97.0874, Reverse Edge Similarity=95.2381
+Tree 0655: RF=5.0, Normalized RF=0.0794
+Tree 0655: Edge Similarity=98.5185, Reverse Edge Similarity=97.7941
+Tree 0656: RF=8.0, Normalized RF=0.1739
+Tree 0656: Edge Similarity=97.6744, Reverse Edge Similarity=93.3333
+Tree 0657: RF=9.0, Normalized RF=0.2093
+Tree 0657: Edge Similarity=97.7778, Reverse Edge Similarity=92.6316
+Tree 0658: RF=11.0, Normalized RF=0.1089
+Tree 0658: Edge Similarity=99.1150, Reverse Edge Similarity=96.1373
+Tree 0659: RF=6.0, Normalized RF=0.1304
+Tree 0659: Edge Similarity=97.0874, Reverse Edge Similarity=97.0874
+Tree 0660: RF=10.0, Normalized RF=0.2778
+Tree 0660: Edge Similarity=97.9381, Reverse Edge Similarity=92.2330
+Tree 0661: RF=6.0, Normalized RF=0.1500
+Tree 0661: Edge Similarity=97.9381, Reverse Edge Similarity=95.9596
+Tree 0662: RF=8.0, Normalized RF=0.1212
+Tree 0662: Edge Similarity=98.0000, Reverse Edge Similarity=96.7105
+Tree 0663: RF=9.0, Normalized RF=0.1200
+Tree 0663: Edge Similarity=99.2593, Reverse Edge Similarity=94.3662
+Tree 0664: RF=9.0, Normalized RF=0.2432
+Tree 0664: Edge Similarity=94.5946, Reverse Edge Similarity=93.3333
+Tree 0665: RF=4.0, Normalized RF=0.2000
+Tree 0665: Edge Similarity=92.1053, Reverse Edge Similarity=97.2222
+Tree 0666: RF=14.0, Normalized RF=0.2059
+Tree 0666: Edge Similarity=95.2381, Reverse Edge Similarity=95.2381
+Tree 0667: RF=16.0, Normalized RF=0.1702
+Tree 0667: Edge Similarity=97.1264, Reverse Edge Similarity=93.8889
+Tree 0668: RF=22.0, Normalized RF=0.1964
+Tree 0668: Edge Similarity=97.2973, Reverse Edge Similarity=93.1034
+Tree 0669: RF=1.0, Normalized RF=0.0286
+Tree 0669: Edge Similarity=100.0000, Reverse Edge Similarity=98.9130
+Tree 0670: RF=0.0, Normalized RF=0.0000
+Tree 0670: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0671: RF=2.0, Normalized RF=0.0909
+Tree 0671: Edge Similarity=100.0000, Reverse Edge Similarity=94.7368
+Tree 0672: RF=14.0, Normalized RF=0.1892
+Tree 0672: Edge Similarity=97.9592, Reverse Edge Similarity=92.9032
+Tree 0673: RF=11.0, Normalized RF=0.1864
+Tree 0673: Edge Similarity=100.0000, Reverse Edge Similarity=91.4062
+Tree 0674: RF=0.0, Normalized RF=0.0000
+Tree 0674: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0675: RF=0.0, Normalized RF=0.0000
+Tree 0675: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0676: RF=0.0, Normalized RF=0.0000
+Tree 0676: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0677: RF=12.0, Normalized RF=0.1176
+Tree 0677: Edge Similarity=99.5025, Reverse Edge Similarity=94.7867
+Tree 0678: RF=4.0, Normalized RF=0.3333
+Tree 0678: Edge Similarity=88.0000, Reverse Edge Similarity=95.6522
+Tree 0679: RF=3.0, Normalized RF=0.2000
+Tree 0679: Edge Similarity=100.0000, Reverse Edge Similarity=93.4783
+Tree 0680: RF=0.0, Normalized RF=0.0000
+Tree 0680: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0681: RF=2.0, Normalized RF=0.0625
+Tree 0681: Edge Similarity=100.0000, Reverse Edge Similarity=96.3636
+Tree 0682: RF=4.0, Normalized RF=0.1053
+Tree 0682: Edge Similarity=100.0000, Reverse Edge Similarity=93.5484
+Tree 0683: RF=4.0, Normalized RF=0.1053
+Tree 0683: Edge Similarity=100.0000, Reverse Edge Similarity=96.7480
+Tree 0684: RF=19.0, Normalized RF=0.1111
+Tree 0684: Edge Similarity=96.5035, Reverse Edge Similarity=96.8421
+Tree 0685: RF=15.0, Normalized RF=0.1034
+Tree 0685: Edge Similarity=98.4127, Reverse Edge Similarity=95.7529
+Tree 0686: RF=10.0, Normalized RF=0.0877
+Tree 0686: Edge Similarity=98.8506, Reverse Edge Similarity=95.5556
+Tree 0687: RF=15.0, Normalized RF=0.1852
+Tree 0687: Edge Similarity=95.7627, Reverse Edge Similarity=91.8699
+Tree 0688: RF=16.0, Normalized RF=0.1739
+Tree 0688: Edge Similarity=96.7568, Reverse Edge Similarity=94.7090
+Tree 0689: RF=12.0, Normalized RF=0.1176
+Tree 0689: Edge Similarity=100.0000, Reverse Edge Similarity=95.2756
+Tree 0690: RF=13.0, Normalized RF=0.1733
+Tree 0690: Edge Similarity=98.8095, Reverse Edge Similarity=93.7853
+Tree 0691: RF=2.0, Normalized RF=0.1250
+Tree 0691: Edge Similarity=100.0000, Reverse Edge Similarity=93.7500
+Tree 0692: RF=5.0, Normalized RF=0.3846
+Tree 0692: Edge Similarity=92.3077, Reverse Edge Similarity=94.7368
+Tree 0693: RF=3.0, Normalized RF=0.1765
+Tree 0693: Edge Similarity=97.6190, Reverse Edge Similarity=95.3488
+Tree 0694: RF=4.0, Normalized RF=0.2000
+Tree 0694: Edge Similarity=92.0000, Reverse Edge Similarity=100.0000
+Tree 0695: RF=19.0, Normalized RF=0.2184
+Tree 0695: Edge Similarity=98.9011, Reverse Edge Similarity=91.3706
+Tree 0696: RF=8.0, Normalized RF=0.2500
+Tree 0696: Edge Similarity=97.8947, Reverse Edge Similarity=93.9394
+Tree 0697: RF=9.0, Normalized RF=0.1304
+Tree 0697: Edge Similarity=100.0000, Reverse Edge Similarity=93.6620
+Tree 0698: RF=4.0, Normalized RF=0.0870
+Tree 0698: Edge Similarity=95.6522, Reverse Edge Similarity=98.5075
+Tree 0699: RF=5.0, Normalized RF=0.0943
+Tree 0699: Edge Similarity=97.1963, Reverse Edge Similarity=98.1132
+Tree 0700: RF=11.0, Normalized RF=0.3333
+Tree 0700: Edge Similarity=97.4359, Reverse Edge Similarity=89.4118
+Tree 0701: RF=5.0, Normalized RF=0.0476
+Tree 0701: Edge Similarity=99.5025, Reverse Edge Similarity=98.0392
+Tree 0702: RF=4.0, Normalized RF=0.0769
+Tree 0702: Edge Similarity=98.9796, Reverse Edge Similarity=97.0000
+Tree 0703: RF=5.0, Normalized RF=0.1515
+Tree 0703: Edge Similarity=96.9697, Reverse Edge Similarity=95.5224
+Tree 0704: RF=2.0, Normalized RF=0.0833
+Tree 0704: Edge Similarity=100.0000, Reverse Edge Similarity=96.6102
+Tree 0705: RF=6.0, Normalized RF=0.1500
+Tree 0705: Edge Similarity=96.3415, Reverse Edge Similarity=96.3415
+Tree 0706: RF=10.0, Normalized RF=0.0980
+Tree 0706: Edge Similarity=98.3696, Reverse Edge Similarity=96.2766
+Tree 0707: RF=7.0, Normalized RF=0.4118
+Tree 0707: Edge Similarity=97.1014, Reverse Edge Similarity=93.0556
+Tree 0708: RF=19.0, Normalized RF=0.3333
+Tree 0708: Edge Similarity=95.2055, Reverse Edge Similarity=92.0530
+Tree 0709: RF=5.0, Normalized RF=0.1020
+Tree 0709: Edge Similarity=97.7099, Reverse Edge Similarity=98.4615
+Tree 0710: RF=8.0, Normalized RF=0.2500
+Tree 0710: Edge Similarity=100.0000, Reverse Edge Similarity=91.3043
+Tree 0711: RF=4.0, Normalized RF=0.2222
+Tree 0711: Edge Similarity=88.8889, Reverse Edge Similarity=100.0000
+Tree 0712: RF=14.0, Normalized RF=0.0933
+Tree 0712: Edge Similarity=96.4000, Reverse Edge Similarity=97.9675
+Tree 0713: RF=6.0, Normalized RF=0.0682
+Tree 0713: Edge Similarity=98.8024, Reverse Edge Similarity=97.6331
+Tree 0714: RF=16.0, Normalized RF=0.2857
+Tree 0714: Edge Similarity=100.0000, Reverse Edge Similarity=88.4058
+Tree 0715: RF=6.0, Normalized RF=0.1429
+Tree 0715: Edge Similarity=100.0000, Reverse Edge Similarity=93.9394
+Tree 0716: RF=2.0, Normalized RF=0.1111
+Tree 0716: Edge Similarity=100.0000, Reverse Edge Similarity=97.3684
+Tree 0717: RF=16.0, Normalized RF=0.1481
+Tree 0717: Edge Similarity=95.9538, Reverse Edge Similarity=94.8571
+Tree 0718: RF=29.0, Normalized RF=0.1518
+Tree 0718: Edge Similarity=98.8604, Reverse Edge Similarity=93.2796
+Tree 0719: RF=13.0, Normalized RF=0.1781
+Tree 0719: Edge Similarity=97.7143, Reverse Edge Similarity=95.0000
+Tree 0720: RF=4.0, Normalized RF=0.0465
+Tree 0720: Edge Similarity=98.2857, Reverse Edge Similarity=99.4220
+Tree 0721: RF=11.0, Normalized RF=0.1068
+Tree 0721: Edge Similarity=98.3333, Reverse Edge Similarity=95.6757
+Tree 0722: RF=2.0, Normalized RF=0.0833
+Tree 0722: Edge Similarity=100.0000, Reverse Edge Similarity=97.2603
+Tree 0723: RF=6.0, Normalized RF=0.3750
+Tree 0723: Edge Similarity=85.3659, Reverse Edge Similarity=100.0000
+Tree 0724: RF=9.0, Normalized RF=0.1200
+Tree 0724: Edge Similarity=98.7578, Reverse Edge Similarity=95.7831
+Tree 0725: RF=4.0, Normalized RF=0.1000
+Tree 0725: Edge Similarity=100.0000, Reverse Edge Similarity=96.4286
+Tree 0726: RF=12.0, Normalized RF=0.1395
+Tree 0726: Edge Similarity=97.7401, Reverse Edge Similarity=95.5801
+Tree 0727: RF=8.0, Normalized RF=0.1538
+Tree 0727: Edge Similarity=100.0000, Reverse Edge Similarity=93.9394
+Tree 0728: RF=10.0, Normalized RF=0.2000
+Tree 0728: Edge Similarity=97.5806, Reverse Edge Similarity=94.5312
+Tree 0729: RF=3.0, Normalized RF=0.3333
+Tree 0729: Edge Similarity=100.0000, Reverse Edge Similarity=92.6829
+Tree 0730: RF=16.0, Normalized RF=0.1818
+Tree 0730: Edge Similarity=97.0414, Reverse Edge Similarity=93.7143
+Tree 0731: RF=5.0, Normalized RF=0.2632
+Tree 0731: Edge Similarity=100.0000, Reverse Edge Similarity=88.6364
+Tree 0732: RF=0.0, Normalized RF=0.0000
+Tree 0732: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0733: RF=0.0, Normalized RF=0.0000
+Tree 0733: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0734: RF=NA, Normalized RF=0.0000
+Tree 0734: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0735: RF=1.0, Normalized RF=0.0435
+Tree 0735: Edge Similarity=100.0000, Reverse Edge Similarity=98.4375
+Tree 0736: RF=24.0, Normalized RF=0.1429
+Tree 0736: Edge Similarity=99.3827, Reverse Edge Similarity=93.6047
+Tree 0737: RF=25.0, Normalized RF=0.2000
+Tree 0737: Edge Similarity=98.4436, Reverse Edge Similarity=92.3358
+Tree 0738: RF=11.0, Normalized RF=0.2973
+Tree 0738: Edge Similarity=91.8605, Reverse Edge Similarity=95.1807
+Tree 0739: RF=4.0, Normalized RF=0.0606
+Tree 0739: Edge Similarity=100.0000, Reverse Edge Similarity=96.8254
+Tree 0740: RF=22.0, Normalized RF=0.2444
+Tree 0740: Edge Similarity=97.4026, Reverse Edge Similarity=89.2857
+Tree 0741: RF=4.0, Normalized RF=0.0625
+Tree 0741: Edge Similarity=98.8571, Reverse Edge Similarity=98.8571
+Tree 0742: RF=9.0, Normalized RF=0.1429
+Tree 0742: Edge Similarity=97.2477, Reverse Edge Similarity=94.6429
+Tree 0743: RF=0.0, Normalized RF=0.0000
+Tree 0743: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0744: RF=9.0, Normalized RF=0.1304
+Tree 0744: Edge Similarity=96.6102, Reverse Edge Similarity=95.7983
+Tree 0745: RF=10.0, Normalized RF=0.0909
+Tree 0745: Edge Similarity=100.0000, Reverse Edge Similarity=96.2687
+Tree 0746: RF=8.0, Normalized RF=0.2857
+Tree 0746: Edge Similarity=96.9697, Reverse Edge Similarity=91.4286
+Tree 0747: RF=8.0, Normalized RF=0.1212
+Tree 0747: Edge Similarity=97.0370, Reverse Edge Similarity=97.0370
+Tree 0748: RF=11.0, Normalized RF=0.0991
+Tree 0748: Edge Similarity=99.5098, Reverse Edge Similarity=95.3052
+Tree 0749: RF=19.0, Normalized RF=0.1776
+Tree 0749: Edge Similarity=99.4924, Reverse Edge Similarity=91.5888
+Tree 0750: RF=9.0, Normalized RF=0.0947
+Tree 0750: Edge Similarity=96.8085, Reverse Edge Similarity=98.3784
+Tree 0751: RF=17.0, Normalized RF=0.1030
+Tree 0751: Edge Similarity=98.3108, Reverse Edge Similarity=96.0396
+Tree 0752: RF=13.0, Normalized RF=0.2063
+Tree 0752: Edge Similarity=95.2756, Reverse Edge Similarity=94.5312
+Tree 0753: RF=2.0, Normalized RF=0.1000
+Tree 0753: Edge Similarity=100.0000, Reverse Edge Similarity=94.7368
+Tree 0754: RF=0.0, Normalized RF=0.0000
+Tree 0754: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0755: RF=9.0, Normalized RF=0.1084
+Tree 0755: Edge Similarity=98.8304, Reverse Edge Similarity=96.0227
+Tree 0756: RF=4.0, Normalized RF=0.1176
+Tree 0756: Edge Similarity=97.7011, Reverse Edge Similarity=97.7011
+Tree 0757: RF=8.0, Normalized RF=0.1143
+Tree 0757: Edge Similarity=100.0000, Reverse Edge Similarity=94.1176
+Tree 0758: RF=5.0, Normalized RF=0.0980
+Tree 0758: Edge Similarity=98.1308, Reverse Edge Similarity=97.2222
+Tree 0759: RF=13.0, Normalized RF=0.1262
+Tree 0759: Edge Similarity=98.9950, Reverse Edge Similarity=94.7115
+Tree 0760: RF=16.0, Normalized RF=0.2162
+Tree 0760: Edge Similarity=97.4843, Reverse Edge Similarity=92.8144
+Tree 0761: RF=6.0, Normalized RF=0.1875
+Tree 0761: Edge Similarity=100.0000, Reverse Edge Similarity=91.1765
+Tree 0762: RF=9.0, Normalized RF=0.1111
+Tree 0762: Edge Similarity=100.0000, Reverse Edge Similarity=94.7368
+Tree 0763: RF=4.0, Normalized RF=0.1176
+Tree 0763: Edge Similarity=100.0000, Reverse Edge Similarity=96.0784
+Tree 0764: RF=10.0, Normalized RF=0.0862
+Tree 0764: Edge Similarity=97.6636, Reverse Edge Similarity=97.6636
+Tree 0765: RF=15.0, Normalized RF=0.1807
+Tree 0765: Edge Similarity=96.7532, Reverse Edge Similarity=93.7107
+Tree 0766: RF=5.0, Normalized RF=0.0704
+Tree 0766: Edge Similarity=100.0000, Reverse Edge Similarity=96.5753
+Tree 0767: RF=8.0, Normalized RF=0.0889
+Tree 0767: Edge Similarity=97.6331, Reverse Edge Similarity=97.6331
+Tree 0768: RF=20.0, Normalized RF=0.1235
+Tree 0768: Edge Similarity=97.7941, Reverse Edge Similarity=95.0000
+Tree 0769: RF=7.0, Normalized RF=0.2000
+Tree 0769: Edge Similarity=97.8723, Reverse Edge Similarity=94.8454
+Tree 0770: RF=15.0, Normalized RF=0.1200
+Tree 0770: Edge Similarity=100.0000, Reverse Edge Similarity=94.0476
+Tree 0771: RF=6.0, Normalized RF=0.1250
+Tree 0771: Edge Similarity=100.0000, Reverse Edge Similarity=94.1176
+Tree 0772: RF=9.0, Normalized RF=0.1059
+Tree 0772: Edge Similarity=100.0000, Reverse Edge Similarity=95.4774
+Tree 0773: RF=16.0, Normalized RF=0.2759
+Tree 0773: Edge Similarity=96.8254, Reverse Edge Similarity=91.0448
+Tree 0774: RF=11.0, Normalized RF=0.1467
+Tree 0774: Edge Similarity=99.4012, Reverse Edge Similarity=94.3182
+Tree 0775: RF=17.0, Normalized RF=0.1753
+Tree 0775: Edge Similarity=97.7401, Reverse Edge Similarity=93.0108
+Tree 0776: RF=13.0, Normalized RF=0.1057
+Tree 0776: Edge Similarity=96.9112, Reverse Edge Similarity=98.0469
+Tree 0777: RF=15.0, Normalized RF=0.1095
+Tree 0777: Edge Similarity=98.3264, Reverse Edge Similarity=95.5285
+Tree 0778: RF=0.0, Normalized RF=0.0000
+Tree 0778: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0779: RF=12.0, Normalized RF=0.0882
+Tree 0779: Edge Similarity=97.4576, Reverse Edge Similarity=97.4576
+Tree 0780: RF=9.0, Normalized RF=0.3103
+Tree 0780: Edge Similarity=100.0000, Reverse Edge Similarity=88.8889
+Tree 0781: RF=15.0, Normalized RF=0.2000
+Tree 0781: Edge Similarity=95.9302, Reverse Edge Similarity=95.3757
+Tree 0782: RF=10.0, Normalized RF=0.1613
+Tree 0782: Edge Similarity=96.4286, Reverse Edge Similarity=94.7368
+Tree 0783: RF=10.0, Normalized RF=0.5000
+Tree 0783: Edge Similarity=94.7368, Reverse Edge Similarity=88.5246
+Tree 0784: RF=6.0, Normalized RF=0.2308
+Tree 0784: Edge Similarity=100.0000, Reverse Edge Similarity=91.5493
+Tree 0785: RF=4.0, Normalized RF=0.1176
+Tree 0785: Edge Similarity=100.0000, Reverse Edge Similarity=93.5484
+Tree 0786: RF=0.0, Normalized RF=0.0000
+Tree 0786: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0787: RF=9.0, Normalized RF=0.1233
+Tree 0787: Edge Similarity=100.0000, Reverse Edge Similarity=94.1935
+Tree 0788: RF=18.0, Normalized RF=0.3462
+Tree 0788: Edge Similarity=100.0000, Reverse Edge Similarity=85.1240
+Tree 0789: RF=8.0, Normalized RF=0.1818
+Tree 0789: Edge Similarity=100.0000, Reverse Edge Similarity=93.3884
+Tree 0790: RF=11.0, Normalized RF=0.1746
+Tree 0790: Edge Similarity=97.5610, Reverse Edge Similarity=93.7500
+Tree 0791: RF=9.0, Normalized RF=0.1034
+Tree 0791: Edge Similarity=97.5309, Reverse Edge Similarity=96.9325
+Tree 0792: RF=13.0, Normalized RF=0.1529
+Tree 0792: Edge Similarity=97.3684, Reverse Edge Similarity=94.2675
+Tree 0793: RF=9.0, Normalized RF=0.2000
+Tree 0793: Edge Similarity=98.2301, Reverse Edge Similarity=94.0678
+Tree 0794: RF=3.0, Normalized RF=0.0909
+Tree 0794: Edge Similarity=96.8750, Reverse Edge Similarity=98.4127
+Tree 0795: RF=4.0, Normalized RF=0.1176
+Tree 0795: Edge Similarity=100.0000, Reverse Edge Similarity=95.5556
+Tree 0796: RF=9.0, Normalized RF=0.1698
+Tree 0796: Edge Similarity=98.0000, Reverse Edge Similarity=93.3333
+Tree 0797: RF=9.0, Normalized RF=0.0677
+Tree 0797: Edge Similarity=100.0000, Reverse Edge Similarity=96.5909
+Tree 0798: RF=10.0, Normalized RF=0.1282
+Tree 0798: Edge Similarity=97.4194, Reverse Edge Similarity=96.1783
+Tree 0799: RF=8.0, Normalized RF=0.2857
+Tree 0799: Edge Similarity=94.1860, Reverse Edge Similarity=96.4286
+Tree 0800: RF=15.0, Normalized RF=0.0980
+Tree 0800: Edge Similarity=98.9011, Reverse Edge Similarity=95.7447
+Tree 0801: RF=2.0, Normalized RF=0.0417
+Tree 0801: Edge Similarity=100.0000, Reverse Edge Similarity=98.2143
+Tree 0802: RF=12.0, Normalized RF=0.2143
+Tree 0802: Edge Similarity=96.3303, Reverse Edge Similarity=92.9204
+Tree 0803: RF=3.0, Normalized RF=0.0411
+Tree 0803: Edge Similarity=100.0000, Reverse Edge Similarity=97.9167
+Tree 0804: RF=10.0, Normalized RF=0.1724
+Tree 0804: Edge Similarity=96.6942, Reverse Edge Similarity=95.1220
+Tree 0805: RF=2.0, Normalized RF=0.0476
+Tree 0805: Edge Similarity=100.0000, Reverse Edge Similarity=98.0952
+Tree 0806: RF=20.0, Normalized RF=0.1471
+Tree 0806: Edge Similarity=97.2332, Reverse Edge Similarity=94.9807
+Tree 0807: RF=4.0, Normalized RF=0.1818
+Tree 0807: Edge Similarity=94.3396, Reverse Edge Similarity=98.0392
+Tree 0808: RF=6.0, Normalized RF=0.1304
+Tree 0808: Edge Similarity=100.0000, Reverse Edge Similarity=94.4444
+Tree 0809: RF=18.0, Normalized RF=0.2143
+Tree 0809: Edge Similarity=97.8571, Reverse Edge Similarity=90.1316
+Tree 0810: RF=18.0, Normalized RF=0.1800
+Tree 0810: Edge Similarity=98.5915, Reverse Edge Similarity=93.3333
+Tree 0811: RF=2.0, Normalized RF=0.0625
+Tree 0811: Edge Similarity=100.0000, Reverse Edge Similarity=97.5000
+Tree 0812: RF=0.0, Normalized RF=0.0000
+Tree 0812: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0813: RF=6.0, Normalized RF=0.2143
+Tree 0813: Edge Similarity=93.2203, Reverse Edge Similarity=96.4912
+Tree 0814: RF=9.0, Normalized RF=0.0909
+Tree 0814: Edge Similarity=100.0000, Reverse Edge Similarity=95.0276
+Tree 0815: RF=0.0, Normalized RF=0.0000
+Tree 0815: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0816: RF=28.0, Normalized RF=0.1818
+Tree 0816: Edge Similarity=98.1366, Reverse Edge Similarity=93.4911
+Tree 0817: RF=14.0, Normalized RF=0.0897
+Tree 0817: Edge Similarity=99.3939, Reverse Edge Similarity=96.4706
+Tree 0818: RF=2.0, Normalized RF=0.0385
+Tree 0818: Edge Similarity=98.6301, Reverse Edge Similarity=100.0000
+Tree 0819: RF=8.0, Normalized RF=0.1905
+Tree 0819: Edge Similarity=97.8947, Reverse Edge Similarity=93.9394
+Tree 0820: RF=12.0, Normalized RF=0.2500
+Tree 0820: Edge Similarity=96.5517, Reverse Edge Similarity=93.3333
+Tree 0821: RF=8.0, Normalized RF=0.1905
+Tree 0821: Edge Similarity=100.0000, Reverse Edge Similarity=92.6606
+Tree 0822: RF=8.0, Normalized RF=0.1212
+Tree 0822: Edge Similarity=100.0000, Reverse Edge Similarity=94.9686
+Tree 0823: RF=5.0, Normalized RF=0.1613
+Tree 0823: Edge Similarity=98.6486, Reverse Edge Similarity=94.8052
+Tree 0824: RF=9.0, Normalized RF=0.2308
+Tree 0824: Edge Similarity=98.2301, Reverse Edge Similarity=94.0678
+Tree 0825: RF=16.0, Normalized RF=0.2581
+Tree 0825: Edge Similarity=96.7213, Reverse Edge Similarity=90.7692
+Tree 0826: RF=16.0, Normalized RF=0.1481
+Tree 0826: Edge Similarity=99.5169, Reverse Edge Similarity=93.2127
+Tree 0827: RF=11.0, Normalized RF=0.1358
+Tree 0827: Edge Similarity=97.3154, Reverse Edge Similarity=95.3947
+Tree 0828: RF=3.0, Normalized RF=0.0732
+Tree 0828: Edge Similarity=100.0000, Reverse Edge Similarity=96.8085
+Tree 0829: RF=5.0, Normalized RF=0.3333
+Tree 0829: Edge Similarity=88.5714, Reverse Edge Similarity=96.8750
+Tree 0830: RF=18.0, Normalized RF=0.1837
+Tree 0830: Edge Similarity=99.5122, Reverse Edge Similarity=92.3077
+Tree 0831: RF=27.0, Normalized RF=0.1579
+Tree 0831: Edge Similarity=97.9452, Reverse Edge Similarity=93.1596
+Tree 0832: RF=8.0, Normalized RF=0.2500
+Tree 0832: Edge Similarity=94.3396, Reverse Edge Similarity=90.9091
+Tree 0833: RF=0.0, Normalized RF=0.0000
+Tree 0833: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0834: RF=14.0, Normalized RF=0.1556
+Tree 0834: Edge Similarity=98.6395, Reverse Edge Similarity=92.3567
+Tree 0835: RF=3.0, Normalized RF=0.1034
+Tree 0835: Edge Similarity=100.0000, Reverse Edge Similarity=96.5116
+Tree 0836: RF=22.0, Normalized RF=0.1294
+Tree 0836: Edge Similarity=99.6644, Reverse Edge Similarity=93.3962
+Tree 0837: RF=4.0, Normalized RF=0.2500
+Tree 0837: Edge Similarity=100.0000, Reverse Edge Similarity=86.6667
+Tree 0838: RF=2.0, Normalized RF=0.0476
+Tree 0838: Edge Similarity=100.0000, Reverse Edge Similarity=98.1982
+Tree 0839: RF=0.0, Normalized RF=0.0000
+Tree 0839: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0840: RF=6.0, Normalized RF=0.0857
+Tree 0840: Edge Similarity=97.7778, Reverse Edge Similarity=97.7778
+Tree 0841: RF=NA, Normalized RF=0.0000
+Tree 0841: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0842: RF=0.0, Normalized RF=0.0000
+Tree 0842: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0843: RF=24.0, Normalized RF=0.2857
+Tree 0843: Edge Similarity=92.1212, Reverse Edge Similarity=93.2515
+Tree 0844: RF=8.0, Normalized RF=0.1905
+Tree 0844: Edge Similarity=96.8750, Reverse Edge Similarity=94.8980
+Tree 0845: RF=3.0, Normalized RF=0.0411
+Tree 0845: Edge Similarity=98.1308, Reverse Edge Similarity=99.0566
+Tree 0846: RF=6.0, Normalized RF=0.1034
+Tree 0846: Edge Similarity=99.3333, Reverse Edge Similarity=96.7532
+Tree 0847: RF=2.0, Normalized RF=0.0714
+Tree 0847: Edge Similarity=98.1132, Reverse Edge Similarity=98.1132
+Tree 0848: RF=7.0, Normalized RF=0.0560
+Tree 0848: Edge Similarity=100.0000, Reverse Edge Similarity=96.7593
+Tree 0849: RF=3.0, Normalized RF=0.0909
+Tree 0849: Edge Similarity=100.0000, Reverse Edge Similarity=96.4706
+Tree 0850: RF=2.0, Normalized RF=0.1111
+Tree 0850: Edge Similarity=100.0000, Reverse Edge Similarity=94.4444
+Tree 0851: RF=3.0, Normalized RF=0.1429
+Tree 0851: Edge Similarity=100.0000, Reverse Edge Similarity=94.1176
+Tree 0852: RF=3.0, Normalized RF=0.1200
+Tree 0852: Edge Similarity=92.6829, Reverse Edge Similarity=100.0000
+Tree 0853: RF=14.0, Normalized RF=0.2500
+Tree 0853: Edge Similarity=94.9580, Reverse Edge Similarity=93.3884
+Tree 0854: RF=16.0, Normalized RF=0.2051
+Tree 0854: Edge Similarity=97.5000, Reverse Edge Similarity=92.8571
+Tree 0855: RF=0.0, Normalized RF=0.0000
+Tree 0855: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0856: RF=11.0, Normalized RF=0.1358
+Tree 0856: Edge Similarity=100.0000, Reverse Edge Similarity=93.8202
+Tree 0857: RF=6.0, Normalized RF=0.1579
+Tree 0857: Edge Similarity=97.3214, Reverse Edge Similarity=97.3214
+Tree 0858: RF=32.0, Normalized RF=0.1524
+Tree 0858: Edge Similarity=99.4565, Reverse Edge Similarity=92.4242
+Tree 0859: RF=13.0, Normalized RF=0.1940
+Tree 0859: Edge Similarity=97.1631, Reverse Edge Similarity=93.8356
+Tree 0860: RF=8.0, Normalized RF=0.1250
+Tree 0860: Edge Similarity=97.5806, Reverse Edge Similarity=96.0317
+Tree 0861: RF=2.0, Normalized RF=0.0667
+Tree 0861: Edge Similarity=100.0000, Reverse Edge Similarity=95.7447
+Tree 0862: RF=6.0, Normalized RF=0.1200
+Tree 0862: Edge Similarity=98.2456, Reverse Edge Similarity=96.5517
+Tree 0863: RF=11.0, Normalized RF=0.1746
+Tree 0863: Edge Similarity=95.7746, Reverse Edge Similarity=96.4539
+Tree 0864: RF=17.0, Normalized RF=0.2208
+Tree 0864: Edge Similarity=95.5975, Reverse Edge Similarity=93.8272
+Tree 0865: RF=14.0, Normalized RF=0.1400
+Tree 0865: Edge Similarity=96.4286, Reverse Edge Similarity=97.2973
+Tree 0866: RF=15.0, Normalized RF=0.2830
+Tree 0866: Edge Similarity=98.0392, Reverse Edge Similarity=88.4956
+Tree 0867: RF=14.0, Normalized RF=0.1346
+Tree 0867: Edge Similarity=98.4043, Reverse Edge Similarity=94.3878
+Tree 0868: RF=11.0, Normalized RF=0.0909
+Tree 0868: Edge Similarity=97.5728, Reverse Edge Similarity=97.1014
+Tree 0869: RF=9.0, Normalized RF=0.2432
+Tree 0869: Edge Similarity=94.3925, Reverse Edge Similarity=97.1154
+Tree 0870: RF=12.0, Normalized RF=0.1500
+Tree 0870: Edge Similarity=98.7013, Reverse Edge Similarity=93.8272
+Tree 0871: RF=7.0, Normalized RF=0.1014
+Tree 0871: Edge Similarity=99.2701, Reverse Edge Similarity=95.7746
+Tree 0872: RF=19.0, Normalized RF=0.1293
+Tree 0872: Edge Similarity=99.0000, Reverse Edge Similarity=94.8882
+Tree 0873: RF=11.0, Normalized RF=0.0759
+Tree 0873: Edge Similarity=99.1870, Reverse Edge Similarity=96.4427
+Tree 0874: RF=5.0, Normalized RF=0.1724
+Tree 0874: Edge Similarity=97.5000, Reverse Edge Similarity=96.2963
+Tree 0875: RF=NA, Normalized RF=0.0000
+Tree 0875: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0876: RF=13.0, Normalized RF=0.1313
+Tree 0876: Edge Similarity=97.4026, Reverse Edge Similarity=96.9828
+Tree 0877: RF=26.0, Normalized RF=0.1646
+Tree 0877: Edge Similarity=97.9381, Reverse Edge Similarity=93.4426
+Tree 0878: RF=4.0, Normalized RF=0.2500
+Tree 0878: Edge Similarity=93.3333, Reverse Edge Similarity=93.3333
+Tree 0879: RF=7.0, Normalized RF=0.2121
+Tree 0879: Edge Similarity=100.0000, Reverse Edge Similarity=93.3962
+Tree 0880: RF=11.0, Normalized RF=0.0894
+Tree 0880: Edge Similarity=99.0050, Reverse Edge Similarity=95.6731
+Tree 0881: RF=21.0, Normalized RF=0.2121
+Tree 0881: Edge Similarity=96.7742, Reverse Edge Similarity=92.3077
+Tree 0882: RF=12.0, Normalized RF=0.1364
+Tree 0882: Edge Similarity=98.7654, Reverse Edge Similarity=94.1176
+Tree 0883: RF=4.0, Normalized RF=0.1333
+Tree 0883: Edge Similarity=100.0000, Reverse Edge Similarity=96.0000
+Tree 0884: RF=5.0, Normalized RF=0.1064
+Tree 0884: Edge Similarity=96.4286, Reverse Edge Similarity=99.0826
+Tree 0885: RF=6.0, Normalized RF=0.0833
+Tree 0885: Edge Similarity=96.4029, Reverse Edge Similarity=99.2593
+Tree 0886: RF=0.0, Normalized RF=0.0000
+Tree 0886: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0887: RF=8.0, Normalized RF=0.1905
+Tree 0887: Edge Similarity=95.9459, Reverse Edge Similarity=93.4211
+Tree 0888: RF=20.0, Normalized RF=0.1818
+Tree 0888: Edge Similarity=98.1900, Reverse Edge Similarity=93.1330
+Tree 0889: RF=1.0, Normalized RF=0.0667
+Tree 0889: Edge Similarity=96.9697, Reverse Edge Similarity=100.0000
+Tree 0890: RF=6.0, Normalized RF=0.0750
+Tree 0890: Edge Similarity=100.0000, Reverse Edge Similarity=96.2025
+Tree 0891: RF=9.0, Normalized RF=0.0709
+Tree 0891: Edge Similarity=100.0000, Reverse Edge Similarity=96.1207
+Tree 0892: RF=6.0, Normalized RF=0.0682
+Tree 0892: Edge Similarity=100.0000, Reverse Edge Similarity=96.2264
+Tree 0893: RF=11.0, Normalized RF=0.1294
+Tree 0893: Edge Similarity=97.8261, Reverse Edge Similarity=96.2567
+Tree 0894: RF=8.0, Normalized RF=0.2353
+Tree 0894: Edge Similarity=100.0000, Reverse Edge Similarity=92.0792
+Tree 0895: RF=12.0, Normalized RF=0.0938
+Tree 0895: Edge Similarity=98.6486, Reverse Edge Similarity=96.0526
+Tree 0896: RF=5.0, Normalized RF=0.0649
+Tree 0896: Edge Similarity=99.3671, Reverse Edge Similarity=97.5155
+Tree 0897: RF=0.0, Normalized RF=0.0000
+Tree 0897: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0898: RF=11.0, Normalized RF=0.1746
+Tree 0898: Edge Similarity=98.7421, Reverse Edge Similarity=94.5783
+Tree 0899: RF=0.0, Normalized RF=0.0000
+Tree 0899: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0900: RF=3.0, Normalized RF=0.0492
+Tree 0900: Edge Similarity=100.0000, Reverse Edge Similarity=97.9452
+Tree 0901: RF=3.0, Normalized RF=0.2000
+Tree 0901: Edge Similarity=100.0000, Reverse Edge Similarity=92.5000
+Tree 0902: RF=22.0, Normalized RF=0.1746
+Tree 0902: Edge Similarity=99.5671, Reverse Edge Similarity=91.6335
+Tree 0903: RF=2.0, Normalized RF=0.1000
+Tree 0903: Edge Similarity=100.0000, Reverse Edge Similarity=97.0588
+Tree 0904: RF=7.0, Normalized RF=0.1321
+Tree 0904: Edge Similarity=96.1538, Reverse Edge Similarity=97.0874
+Tree 0905: RF=6.0, Normalized RF=0.1304
+Tree 0905: Edge Similarity=98.7805, Reverse Edge Similarity=94.1860
+Tree 0906: RF=5.0, Normalized RF=0.1020
+Tree 0906: Edge Similarity=100.0000, Reverse Edge Similarity=96.1240
+Tree 0907: RF=1.0, Normalized RF=0.0588
+Tree 0907: Edge Similarity=97.5610, Reverse Edge Similarity=100.0000
+Tree 0908: RF=8.0, Normalized RF=0.3077
+Tree 0908: Edge Similarity=96.5517, Reverse Edge Similarity=94.3820
+Tree 0909: RF=31.0, Normalized RF=0.2168
+Tree 0909: Edge Similarity=96.8254, Reverse Edge Similarity=91.3858
+Tree 0910: RF=13.0, Normalized RF=0.1262
+Tree 0910: Edge Similarity=99.0244, Reverse Edge Similarity=94.8598
+Tree 0911: RF=6.0, Normalized RF=0.0698
+Tree 0911: Edge Similarity=100.0000, Reverse Edge Similarity=96.1039
+Tree 0912: RF=5.0, Normalized RF=0.0633
+Tree 0912: Edge Similarity=100.0000, Reverse Edge Similarity=96.8750
+Tree 0913: RF=13.0, Normalized RF=0.1940
+Tree 0913: Edge Similarity=97.8873, Reverse Edge Similarity=93.2886
+Tree 0914: RF=5.0, Normalized RF=0.0980
+Tree 0914: Edge Similarity=96.4912, Reverse Edge Similarity=99.0991
+Tree 0915: RF=7.0, Normalized RF=0.1556
+Tree 0915: Edge Similarity=97.2973, Reverse Edge Similarity=93.5065
+Tree 0916: RF=9.0, Normalized RF=0.5294
+Tree 0916: Edge Similarity=97.2222, Reverse Edge Similarity=90.9091
+Tree 0917: RF=11.0, Normalized RF=0.1209
+Tree 0917: Edge Similarity=98.8304, Reverse Edge Similarity=94.9438
+Tree 0918: RF=5.0, Normalized RF=0.0526
+Tree 0918: Edge Similarity=100.0000, Reverse Edge Similarity=97.4359
+Tree 0919: RF=8.0, Normalized RF=0.1000
+Tree 0919: Edge Similarity=100.0000, Reverse Edge Similarity=95.1515
+Tree 0920: RF=1.0, Normalized RF=0.3333
+Tree 0920: Edge Similarity=100.0000, Reverse Edge Similarity=88.8889
+Tree 0921: RF=5.0, Normalized RF=0.7143
+Tree 0921: Edge Similarity=100.0000, Reverse Edge Similarity=88.0952
+Tree 0922: RF=10.0, Normalized RF=0.1429
+Tree 0922: Edge Similarity=98.5816, Reverse Edge Similarity=94.5578
+Tree 0923: RF=11.0, Normalized RF=0.1467
+Tree 0923: Edge Similarity=97.3856, Reverse Edge Similarity=95.5128
+Tree 0924: RF=13.0, Normalized RF=0.2000
+Tree 0924: Edge Similarity=100.0000, Reverse Edge Similarity=92.6554
+Tree 0925: RF=23.0, Normalized RF=0.1586
+Tree 0925: Edge Similarity=96.1977, Reverse Edge Similarity=95.1128
+Tree 0926: RF=2.0, Normalized RF=0.1000
+Tree 0926: Edge Similarity=95.1220, Reverse Edge Similarity=100.0000
+Tree 0927: RF=6.0, Normalized RF=0.1111
+Tree 0927: Edge Similarity=100.0000, Reverse Edge Similarity=95.6835
+Tree 0928: RF=5.0, Normalized RF=0.2381
+Tree 0928: Edge Similarity=96.6102, Reverse Edge Similarity=95.0000
+Tree 0929: RF=6.0, Normalized RF=0.0545
+Tree 0929: Edge Similarity=100.0000, Reverse Edge Similarity=97.4895
+Tree 0930: RF=17.0, Normalized RF=0.1589
+Tree 0930: Edge Similarity=96.2264, Reverse Edge Similarity=95.7746
+Tree 0931: RF=7.0, Normalized RF=0.1014
+Tree 0931: Edge Similarity=98.4000, Reverse Edge Similarity=96.0938
+Tree 0932: RF=1.0, Normalized RF=0.0175
+Tree 0932: Edge Similarity=100.0000, Reverse Edge Similarity=99.2537
+Tree 0933: RF=8.0, Normalized RF=0.2500
+Tree 0933: Edge Similarity=88.2353, Reverse Edge Similarity=95.7447
+Tree 0934: RF=3.0, Normalized RF=0.1304
+Tree 0934: Edge Similarity=100.0000, Reverse Edge Similarity=93.3333
+Tree 0935: RF=6.0, Normalized RF=0.0714
+Tree 0935: Edge Similarity=98.1595, Reverse Edge Similarity=98.1595
+Tree 0936: RF=9.0, Normalized RF=0.2000
+Tree 0936: Edge Similarity=98.3051, Reverse Edge Similarity=94.3089
+Tree 0937: RF=20.0, Normalized RF=0.1754
+Tree 0937: Edge Similarity=97.2973, Reverse Edge Similarity=93.9130
+Tree 0938: RF=7.0, Normalized RF=0.0511
+Tree 0938: Edge Similarity=100.0000, Reverse Edge Similarity=97.1429
+Tree 0939: RF=4.0, Normalized RF=0.0625
+Tree 0939: Edge Similarity=99.3506, Reverse Edge Similarity=98.0769
+Tree 0940: RF=6.0, Normalized RF=0.1000
+Tree 0940: Edge Similarity=97.5207, Reverse Edge Similarity=97.5207
+Tree 0941: RF=19.0, Normalized RF=0.1624
+Tree 0941: Edge Similarity=97.8261, Reverse Edge Similarity=94.1423
+Tree 0942: RF=5.0, Normalized RF=0.2381
+Tree 0942: Edge Similarity=91.4894, Reverse Edge Similarity=97.7273
+Tree 0943: RF=9.0, Normalized RF=0.1304
+Tree 0943: Edge Similarity=98.0000, Reverse Edge Similarity=96.0784
+Tree 0944: RF=4.0, Normalized RF=0.1818
+Tree 0944: Edge Similarity=94.6667, Reverse Edge Similarity=100.0000
+Tree 0945: RF=4.0, Normalized RF=0.0769
+Tree 0945: Edge Similarity=96.7742, Reverse Edge Similarity=100.0000
+Tree 0946: RF=2.0, Normalized RF=0.0667
+Tree 0946: Edge Similarity=98.2143, Reverse Edge Similarity=98.2143
+Tree 0947: RF=4.0, Normalized RF=0.2500
+Tree 0947: Edge Similarity=95.1613, Reverse Edge Similarity=98.3333
+Tree 0948: RF=3.0, Normalized RF=0.6000
+Tree 0948: Edge Similarity=100.0000, Reverse Edge Similarity=86.9565
+Tree 0949: RF=7.0, Normalized RF=0.1556
+Tree 0949: Edge Similarity=95.4128, Reverse Edge Similarity=98.1132
+Tree 0950: RF=5.0, Normalized RF=0.2174
+Tree 0950: Edge Similarity=100.0000, Reverse Edge Similarity=86.8421
+Tree 0951: RF=21.0, Normalized RF=0.1409
+Tree 0951: Edge Similarity=98.8806, Reverse Edge Similarity=93.6396
+Tree 0952: RF=2.0, Normalized RF=0.0256
+Tree 0952: Edge Similarity=100.0000, Reverse Edge Similarity=98.4000
+Tree 0953: RF=17.0, Normalized RF=0.2000
+Tree 0953: Edge Similarity=98.3333, Reverse Edge Similarity=92.6702
+Tree 0954: RF=1.0, Normalized RF=0.0164
+Tree 0954: Edge Similarity=100.0000, Reverse Edge Similarity=99.2366
+Tree 0955: RF=15.0, Normalized RF=0.3846
+Tree 0955: Edge Similarity=92.9293, Reverse Edge Similarity=92.0000
+Tree 0956: RF=6.0, Normalized RF=0.1667
+Tree 0956: Edge Similarity=97.8947, Reverse Edge Similarity=95.8763
+Tree 0957: RF=0.0, Normalized RF=0.0000
+Tree 0957: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0958: RF=18.0, Normalized RF=0.1200
+Tree 0958: Edge Similarity=96.9388, Reverse Edge Similarity=96.9388
+Tree 0959: RF=4.0, Normalized RF=0.0667
+Tree 0959: Edge Similarity=100.0000, Reverse Edge Similarity=97.1631
+Tree 0960: RF=12.0, Normalized RF=0.1765
+Tree 0960: Edge Similarity=96.9512, Reverse Edge Similarity=95.7831
+Tree 0961: RF=6.0, Normalized RF=0.6000
+Tree 0961: Edge Similarity=95.4545, Reverse Edge Similarity=95.4545
+Tree 0962: RF=11.0, Normalized RF=0.1803
+Tree 0962: Edge Similarity=99.2248, Reverse Edge Similarity=92.7536
+Tree 0963: RF=14.0, Normalized RF=0.3684
+Tree 0963: Edge Similarity=97.7273, Reverse Edge Similarity=87.7551
+Tree 0964: RF=7.0, Normalized RF=0.0769
+Tree 0964: Edge Similarity=97.2222, Reverse Edge Similarity=98.8701
+Tree 0965: RF=8.0, Normalized RF=0.0625
+Tree 0965: Edge Similarity=99.6078, Reverse Edge Similarity=97.3180
+Tree 0966: RF=14.0, Normalized RF=0.2121
+Tree 0966: Edge Similarity=98.6111, Reverse Edge Similarity=92.2078
+Tree 0967: RF=11.0, Normalized RF=0.1429
+Tree 0967: Edge Similarity=98.7342, Reverse Edge Similarity=94.5455
+Tree 0968: RF=2.0, Normalized RF=0.0357
+Tree 0968: Edge Similarity=100.0000, Reverse Edge Similarity=98.5294
+Tree 0969: RF=13.0, Normalized RF=0.1646
+Tree 0969: Edge Similarity=95.0311, Reverse Edge Similarity=96.8354
+Tree 0970: RF=6.0, Normalized RF=0.2143
+Tree 0970: Edge Similarity=100.0000, Reverse Edge Similarity=90.7692
+Tree 0971: RF=2.0, Normalized RF=0.0370
+Tree 0971: Edge Similarity=98.5294, Reverse Edge Similarity=100.0000
+Tree 0972: RF=24.0, Normalized RF=0.1935
+Tree 0972: Edge Similarity=97.9508, Reverse Edge Similarity=92.6357
+Tree 0973: RF=20.0, Normalized RF=0.1818
+Tree 0973: Edge Similarity=97.9899, Reverse Edge Similarity=92.4171
+Tree 0974: RF=5.0, Normalized RF=0.0943
+Tree 0974: Edge Similarity=98.4375, Reverse Edge Similarity=97.6744
+Tree 0975: RF=2.0, Normalized RF=0.0526
+Tree 0975: Edge Similarity=97.5610, Reverse Edge Similarity=100.0000
+Tree 0976: RF=8.0, Normalized RF=0.1333
+Tree 0976: Edge Similarity=98.4252, Reverse Edge Similarity=95.4198
+Tree 0977: RF=2.0, Normalized RF=0.0345
+Tree 0977: Edge Similarity=100.0000, Reverse Edge Similarity=98.2143
+Tree 0978: RF=11.0, Normalized RF=0.2558
+Tree 0978: Edge Similarity=93.4066, Reverse Edge Similarity=94.4444
+Tree 0979: RF=16.0, Normalized RF=0.0748
+Tree 0979: Edge Similarity=98.9950, Reverse Edge Similarity=97.0443
+Tree 0980: RF=6.0, Normalized RF=0.3000
+Tree 0980: Edge Similarity=100.0000, Reverse Edge Similarity=90.0000
+Tree 0981: RF=7.0, Normalized RF=0.1014
+Tree 0981: Edge Similarity=98.7578, Reverse Edge Similarity=96.9512
+Tree 0982: RF=6.0, Normalized RF=0.1200
+Tree 0982: Edge Similarity=100.0000, Reverse Edge Similarity=94.5946
+Tree 0983: RF=4.0, Normalized RF=0.3333
+Tree 0983: Edge Similarity=85.0000, Reverse Edge Similarity=94.4444
+Tree 0984: RF=18.0, Normalized RF=0.1915
+Tree 0984: Edge Similarity=98.6842, Reverse Edge Similarity=93.7500
+Tree 0985: RF=13.0, Normalized RF=0.1171
+Tree 0985: Edge Similarity=98.5000, Reverse Edge Similarity=95.1691
+Tree 0986: RF=3.0, Normalized RF=0.3333
+Tree 0986: Edge Similarity=100.0000, Reverse Edge Similarity=93.3333
+Tree 0987: RF=3.0, Normalized RF=0.2308
+Tree 0987: Edge Similarity=92.0000, Reverse Edge Similarity=95.8333
+Tree 0988: RF=3.0, Normalized RF=0.2000
+Tree 0988: Edge Similarity=95.8333, Reverse Edge Similarity=92.0000
+Tree 0989: RF=3.0, Normalized RF=1.0000
+Tree 0989: Edge Similarity=100.0000, Reverse Edge Similarity=62.5000
+Tree 0990: RF=0.0, Normalized RF=0.0000
+Tree 0990: Edge Similarity=100.0000, Reverse Edge Similarity=100.0000
+Tree 0991: RF=16.0, Normalized RF=0.1231
+Tree 0991: Edge Similarity=97.5410, Reverse Edge Similarity=95.9677
+Tree 0992: RF=10.0, Normalized RF=0.1064
+Tree 0992: Edge Similarity=98.2558, Reverse Edge Similarity=96.0227
+Tree 0993: RF=21.0, Normalized RF=0.2039
+Tree 0993: Edge Similarity=99.1189, Reverse Edge Similarity=92.2131
+Tree 0994: RF=4.0, Normalized RF=0.1053
+Tree 0994: Edge Similarity=100.0000, Reverse Edge Similarity=95.2941
+Tree 0995: RF=15.0, Normalized RF=0.1429
+Tree 0995: Edge Similarity=98.7179, Reverse Edge Similarity=92.2156
+Tree 0996: RF=5.0, Normalized RF=0.1613
+Tree 0996: Edge Similarity=100.0000, Reverse Edge Similarity=94.0476
+Tree 0997: RF=18.0, Normalized RF=0.2045
+Tree 0997: Edge Similarity=97.5155, Reverse Edge Similarity=91.8129
+Tree 0998: RF=2.0, Normalized RF=0.0500
+Tree 0998: Edge Similarity=100.0000, Reverse Edge Similarity=97.6190
+Tree 0999: RF=28.0, Normalized RF=0.1573
+Tree 0999: Edge Similarity=98.7097, Reverse Edge Similarity=92.7273
+Tree 1000: RF=3.0, Normalized RF=0.1111
+Tree 1000: Edge Similarity=95.7447, Reverse Edge Similarity=97.8261
+Total Trees Evaluated: 1000
+Average Normalized Robinson-Foulds Distance: 0.1430
+Average Edge Similarity: 98.2849
+Average Reverse Edge Similarity: 95.4839

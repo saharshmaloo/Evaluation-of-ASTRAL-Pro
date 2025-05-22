@@ -1,0 +1,40 @@
+
+Global settings:
+--------------------
+
+Trees:
+	-Species trees: 10 Birth-death simulations
+		-Speciation rate: Fixed 1.800000e-09,
+		-Extinction rate: Fixed 0.000000e+00,
+		-Outgroup addition: No addition
+		-Stopping rules:
+			-Number of leaves: Fixed 100,
+			-Generations: Fixed 1.800000e+09,
+	-Locus trees: Fixed 1000, directly obtained from each species tree (no birth-death process)
+
+	-Gene trees: 1 multilocus coalescent simulations
+
+Parameters:
+	-Haploid efective population size: Fixed 50000000,
+	-Generation time: Fixed 1.000000e+00,
+	-Global substitution rate: Fixed 4.000000e-10,
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: No heterogeneity
+		-Gene family (locus tree) specific rate heterogeneity gamma shape: No heterogeneity
+		-Gene tree branch specific rate heterogeneity gamma shape: Genome-wide parameter (hyperhyperparameter) No heterogeneity, locus-tree related parameter No heterogeneity, Gamma parameter(gene-tree related) LogN(1.500000e+00,1)
+	-Individuals per species: Fixed 1,
+
+Misc parameters:
+	-Rooting method epsilon: 0.000001
+	-Seed: 293745
+
+I/O options:
+	-Output files prefix: ./data/ntaxa-100.dlrate-0.0.psize-50000000
+	-Verbosity: 3
+	-Stats file: OFF
+	-Mapping: ON
+	-Database: ON
+	-Parameterization: ON 
+	-Command-line arguments: ON
+	-Bounded locus subtrees: OFF
+	-Output trees with internal node labels: ON

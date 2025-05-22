@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "1120"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F1C36EDF180C620700E35F5D"
+               BuildableName = "Sim-Phy"
+               BlueprintName = "Sim-Phy"
+               ReferencedContainer = "container:Sim-Phy.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "F1C36EDF180C620700E35F5D"
+            BuildableName = "Sim-Phy"
+            BlueprintName = "Sim-Phy"
+            ReferencedContainer = "container:Sim-Phy.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+      <Testables>
+      </Testables>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "YES"
+      customWorkingDirectory = "/Users/Diego/Desktop/Sim-Phy_debug"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "F1C36EDF180C620700E35F5D"
+            BuildableName = "Sim-Phy"
+            BlueprintName = "Sim-Phy"
+            ReferencedContainer = "container:Sim-Phy.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <CommandLineArguments>
+         <CommandLineArgument
+            argument = "-i /Users/Diego/Desktop/Sim-Phy/configuration_files/SimPhy_controlfile.conf"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-sb f:0.0000000001 -ld f:0.0000005 -lb f:0.0000005 -lt f:0.0000005 -rs 1 -rl U:10,100 -o SimPhy_test -sp f:10000 -su f:0.00001 -sl U:20,50 -st f:1000000 -om 1 -v 2 -od 1 -op 1 -oc 1 -on 1 -cs 22 -ol 1"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-rs 100 -sb f:0.000001 -o si_test -sp f:10000 -su f:0.00001 -sg f:1 -si u:2,5 -st f:1000000 -op 1 -oc 1 -cs 1"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-sb f:0.00001 -sp f:10000"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-i /Users/Diego/Desktop/newsim/SimPhy_configV1.conf"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-i /Users/Diego/Desktop/Sim-Phy/configuration_files/SimPhy_complex.conf -rs 10 -og 0 -ot 1"
+            isEnabled = "YES">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-Rs 100 -Rl U:10,500 -Rg 1 -St U:100000,10000000 -si F:1 -Sl U:10,50 -Sb LN:-14,1 -SP LN:12,0.5 -Hs LN:1.5,1 -Hl LN:1.2,1 -Hg LN:1.4,1 -SU E:10000000 -OD 1 -op 1 -oc 1 -v 1 -So SL:0,0.1,0.5 -Cs 22 -O final_first_1000rep_1"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-i /Users/Diego/Desktop/Sim-Phy_Debug/itrees.txt"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-rs 10000 -rl f:1 -sb f:6.666666667e-06 -sl f:50 -cs 1 -rg 1 -o test_stree -sp f:10000 -sg f:1 -v 1 -od 1 -os 1"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-od 1 -os 1 -om 1 -cs 22 -rg 1 -lr /Users/Diego/Desktop/Sim-Phy_validation/validation-gtree-bmc-tmrca-l_trees.trees -sp f:1000000"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-i /Users/Diego/Desktop/Sim-Phy/configuration_files/SimPhy_complex.conf -rg 10 -on 1 -ol 1"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-h"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-o manual_test -rs 100 -sb f:0.00001 -sd f:0.00001 -st f:100000 -sp f:10000 -cs 22"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-i /Users/Diego/Desktop/Sim-Phy/configuration_files/SimPhy_controlfile.conf -rs 1 -so f:0.5 -sg f:10 -ot 0"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-o manual_test -sb f:0.00001 -sl f:10 -st f:100000 -so f:1 -cp f:10000 -cs 22"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-o manual_test -sb f:0.00001 -sl f:10 -so f:1 -cp f:10000 -cs 22"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-i /Users/Diego/Desktop/Sim-Phy_benchmarks/benchmark_stree_sizerate.conf -rs 10 -sl f:50 -rl f:100 -sb f:0.0001 -lb f:1.744e-5 -cs 1 -o benchmark-stree-sizerate-test"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-s ((A:10000,B:10000):10000,(C:10000,D:10000):10000); -rl f:1000 -lb f:9.24196240746594e-05 -cp f:100 -o test_simphy_9.24196240746594e-05 -os 1 -v 0"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-i /Users/Diego/Desktop/Sim-Phy_benchmarks/benchmark_stree_sizerate.conf -s &quot;((A:100,B:100):200,C:300);&quot; -rl f:100 -cs 1 -o test_length"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-lr lnexus.trees -cp f:1000000 -si f:4 -v 6 -cs 22 -rg 2"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-l (((A_1:1000,B_1:1000):1000,(A_2:1000,B_2:1000):1000):1000%1,C_1:3000); -cp f:1000000 -si f:4 -v 6 -cs 22 -rg 2"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-rs 100 -rl u:10,501 -rg 1 -sb l:-14,1 -sl u:10,51 -st u:100000,10000000 -si u:1,6 -so l:0,0.1 -pb u:-25,-15 -pt f:pb -ld l:pb,0.4 -lb f:ld -lt l:pb,0.4 -lk 1 -cp l:12,0.5 -cg f:1 -hs l:1.5,1 -hl l:1.2,1 -hg l:1.4,1 -cu e:10000000 -o SimPhy_complex -os 1 -or 1 -v 1 -od 1 -cs 22"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-rs 10 -rl f:1 -sb f:6.66e-6 -sl f:50 -cs 1 -o newtest -rg 1 -cp f:10000 -cg f:1 -od 1 -os 1"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-rs 10 -rl U:1000,1000 -rg 1 -st U:500000,500000 -si U:1,1 -sl U:50,50 -sb U:0.000001,0.000001 -cp U:200000,200000 -hs L:1.5,1 -hl L:1.2,1 -hg l:1.4,1 -cu E:10000000 -so U:1,1 -od 1 -or 0 -v 6 -cs 293745 -o ruthtest -lt U:0.00000001,0.00000001 -lk 1"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-sr trees.test -cp f:10 -v 6 -si f:3"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-i hand.conf -rg 2"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-s &quot;((A:20/1,B:20/4):30,C:50);&quot; -cp f:10 -v 6 -si f:3"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-i test_siavash_nversion.txt"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-rs 1 -rl f1 -sr /Users/Diego/Desktop/dlcoal_sim/stree.tree.nex -lb f0.01 -p f10000 -g f1 -o test -os 1 -oc 1 -or 1 -od 1 -v 6 -cs 22"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-i test.conf -v 4"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-rs 100 -rl U10-100 -sb f0.000001 -sl U20-50 -ld f0.0000005 -lb f0.0000005 -lt f0.0000005 -p f10000 -g f1 -o test -os 1 -oc 1 -or 1 -od 1 -v 2 -cs 22"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-rs 1 -rl U:10,100 -sb f:0.000001 -sl U:200,500 -ld f:0.0000005 -lb f:0.0000005 -lt f:0.0000005 -sp f:10000 -rg f:1 -o b_test -os 1 -oc 1 -or 1 -od 1 -v 3 -cs 22"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-rs 1 -rl U10-100 -sb f0.000001 -sl U200-500 -si f5 -ld f0.000000005 -lb f0.000000005 -lt f0.00000005 -p f10000 -g f1 -o b_test -os 1 -oc 1 -or 1 -od 1 -v 3 -cs 22"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-l (A_0:1000,A_1:1000)%1; -P f100000 -rg 10000000 -rs 1 -os 1 -v 1"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-sb f0.000001 -ld f0.0000005 -lb f0.0000005 -lt f0.0000005 -rs 10 -rl f2 -rg 2 -o test1 -p f10000 -sl f3 -os 1 -or 1 -v 6 -od 1 -cs 22"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-sb f0.000001 -sl f3 -ld f0.0000005 -lb f0.0000005 -lt f0 -rs 10 -rl f1000 -rg 1 -o test1 -p f1000000 -i f3 -os 1 -or 1 -v 3 -od 1 -cs 22"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-sb f0.000001 -ld f0 -lb f0 -lt f0 -rs 1 -rl f10 -rg 1 -o test1 -p f10000 -sl f5 -os 1 -or 1 -v 3"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-Rs 1000 -Rl U[100-1000] -Rg 1 -St U[100000,10000000] -I U[1-6] -Sl U[25-51] -Sb L[-14,1] -Lb E[10000000] -Lt E[10000000] -P L[12,1] -Hs L[1.5,1] -Hl L[1.2,1] -Hg L[1.4,1] -U E[5000000] -OD 1 -OR 1 -OS 1 -v 3 -So L[0,0.1] -Cs 22"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-sb f0.000001 -ld f0.0000000001 -lb f0.0000000001 -lt f0 -rs 1 -rl f50 -rg 1 -o test1 -p f10000 -sl f5 -cs 22 -os 1 -or 1 -v 6"
+            isEnabled = "NO">
+         </CommandLineArgument>
+      </CommandLineArguments>
+      <EnvironmentVariables>
+         <EnvironmentVariable
+            key = "SIMPHY_MAXIT"
+            value = "10000000000"
+            isEnabled = "NO">
+         </EnvironmentVariable>
+      </EnvironmentVariables>
+      <AdditionalOptions>
+         <AdditionalOption
+            key = "DYLD_INSERT_LIBRARIES"
+            value = "/usr/lib/libgmalloc.dylib"
+            isEnabled = "YES">
+         </AdditionalOption>
+         <AdditionalOption
+            key = "MallocGuardEdges"
+            value = ""
+            isEnabled = "YES">
+         </AdditionalOption>
+         <AdditionalOption
+            key = "MallocScribble"
+            value = ""
+            isEnabled = "YES">
+         </AdditionalOption>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "YES"
+      customWorkingDirectory = "/Users/Diego/Desktop/Sim-Phy_profile"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "F1C36EDF180C620700E35F5D"
+            BuildableName = "Sim-Phy"
+            BlueprintName = "Sim-Phy"
+            ReferencedContainer = "container:Sim-Phy.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>

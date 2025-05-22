@@ -1,0 +1,1 @@
+../simphy -rs 10 -rl F:1000 -rg 1 -sb F:0.0000000018 -st F:1800000337.5 -sl F:100 -si F:1 -sp F:50000000 -su F:0.0000000004 -lb F:0.0 -ld F:lb -hg LN:1.5,1 -o ./data/ntaxa-100.dlrate-0.0.psize-50000000 -ot 0 -om 1 -od 1 -op 1 -oc 1 -ol 1 -v 3 -cs 293745 
